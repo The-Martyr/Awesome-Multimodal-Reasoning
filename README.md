@@ -22,6 +22,8 @@ With the development of the video capabilities and reasoning capabilities of mul
 
 ### Visual Reasoning
 
+(13 Feb 2025) MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency [arxiv](https://arxiv.org/abs/2502.09621)
+
 (23 Jan 2025) Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [arxiv](https://arxiv.org/abs/2501.13926)
 
 (13 Jan 2025) Imagine while Reasoning in Space: Multimodal Visualization-of-Thought [arxiv](https://arxiv.org/abs/2501.07542)
@@ -29,6 +31,8 @@ With the development of the video capabilities and reasoning capabilities of mul
 (9 Jan 2025) Can MLLMs Reason in Multimodality? EMMA: An Enhanced MultiModal ReAsoning Benchmark [arxiv](https://www.arxiv.org/abs/2501.05444)
 
 (30 Dec 2024) Slow Perception: Let's Perceive Geometric Figures Step-by-step [arxiv](https://arxiv.org/abs/2412.20631)
+
+(29 Nov 2024) Interleaved-Modal Chain-of-Thought [arxiv](https://arxiv.org/abs/2411.19488)
 
 (13 Jun 2024) Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models [arxiv](https://arxiv.org/abs/2406.09403)
 
