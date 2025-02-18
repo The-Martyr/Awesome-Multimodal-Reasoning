@@ -30,5 +30,5 @@ With the development of the video capabilities and reasoning capabilities of mul
 
 ### (30 Dec 2024) Slow Perception: Let's Perceive Geometric Figures Step-by-step [arxiv](https://arxiv.org/abs/2412.20631)
 
-### (13 Jun 2024) Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models [arxiv](https://arxiv.org/abs/2406.09403
+### (13 Jun 2024) Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models [arxiv](https://arxiv.org/abs/2406.09403)
 
