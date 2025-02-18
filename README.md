@@ -20,7 +20,7 @@ With the development of the video capabilities and reasoning capabilities of mul
 
 (23 May 2023) Let's Think Frame by Frame with VIP: A Video Infilling and Prediction Dataset for Evaluating Video Chain-of-Thought. [arxiv](https://arxiv.org/abs/2305.13903)
 
-### Visual Reasoning
+### Multimodal Reasoning
 
 (13 Feb 2025) MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency [arxiv](https://arxiv.org/abs/2502.09621)
 
@@ -33,6 +33,20 @@ With the development of the video capabilities and reasoning capabilities of mul
 (30 Dec 2024) Slow Perception: Let's Perceive Geometric Figures Step-by-step [arxiv](https://arxiv.org/abs/2412.20631)
 
 (29 Nov 2024) Interleaved-Modal Chain-of-Thought [arxiv](https://arxiv.org/abs/2411.19488)
+
+(15 Nov 2024) Thinking Before Looking: Improving Multimodal LLM Reasoning via Mitigating Visual Hallucination [arxiv](https://arxiv.org/abs/2411.12591)
+
+(30 Oct 2024) Vision-Language Models Can Self-Improve Reasoning via Reflection [arxiv](https://arxiv.org/abs/2411.00855)
+
+(23 Oct 2024) R-CoT: Reverse Chain-of-Thought Problem Generation for Geometric Reasoning in Large Multimodal Models [arxiv](https://arxiv.org/abs/2410.17885)
+
+(21 Oct 2024) Improve Vision Language Model Chain-of-thought Reasoning [arxiv](https://arxiv.org/abs/2410.16198)
+
+(11 Oct 2024) M3Hop-CoT: Misogynous Meme Identification with Multimodal Multi-hop Chain-of-Thought [arxiv](https://arxiv.org/abs/2410.09220)
+
+(6 Oct 2024) MC-CoT: A Modular Collaborative CoT Framework for Zero-shot Medical-VQA with LLM and MLLM Integration [arxiv](https://arxiv.org/abs/2410.04521)
+
+() CoT-ST: Enhancing LLM-based Speech Translation with Multimodal Chain-of-Thought [arxiv](https://arxiv.org/abs/2409.19510)
 
 (13 Jun 2024) Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models [arxiv](https://arxiv.org/abs/2406.09403)
 
