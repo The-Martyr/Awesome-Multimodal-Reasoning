@@ -12,6 +12,8 @@ With the development of the video capabilities and reasoning capabilities of mul
 
 (7 May 2024) Video-of-Thought: Step-by-Step Video Reasoning from Perception to Cognition. [arxiv](https://arxiv.org/abs/2501.03230) [code](https://github.com/scofield7419/Video-of-Thought)
 
+(8 Oct 2024) Temporal Reasoning Transfer from Text to Video. [arxiv](https://arxiv.org/abs/2410.06166)
+
 ### Bench/Dataset
 
 (18 Dec 2024) Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces. [arxiv](https://arxiv.org/abs/2412.14171)
