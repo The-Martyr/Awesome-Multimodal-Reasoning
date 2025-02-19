@@ -46,7 +46,9 @@ With the development of the video capabilities and reasoning capabilities of mul
 
 (6 Oct 2024) MC-CoT: A Modular Collaborative CoT Framework for Zero-shot Medical-VQA with LLM and MLLM Integration [arxiv](https://arxiv.org/abs/2410.04521)
 
-() CoT-ST: Enhancing LLM-based Speech Translation with Multimodal Chain-of-Thought [arxiv](https://arxiv.org/abs/2409.19510)
+(29 Sep 2024) CoT-ST: Enhancing LLM-based Speech Translation with Multimodal Chain-of-Thought [arxiv](https://arxiv.org/abs/2409.19510)
+
+(7 Jul 2024) VideoCoT: A Video Chain-of-Thought Dataset with Active Annotation Tool [arxiv](https://arxiv.org/abs/2407.05355)
 
 (13 Jun 2024) Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models [arxiv](https://arxiv.org/abs/2406.09403)
 
