@@ -84,7 +84,7 @@ With the development of the video capabilities and reasoning capabilities of mul
 
 (28 Dec 2023) Grounding-Prompter: Prompting LLM with Multimodal Information for Temporal Sentence Grounding in Long Videos [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.17117v1)
 
-(14 Dec 2023) Multi-modal Latent Space Learning for Chain-of-Thought Reasoning in Language Models [arixv](https://arxiv.org/abs/2312.08762)
+(14 Dec 2023) Multi-modal Latent Space Learning for Chain-of-Thought Reasoning in Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.08762)
 
 (27 Nov 2023) Compositional Chain-of-Thought Prompting for Large Multimodal Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17076)
 
