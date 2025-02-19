@@ -54,5 +54,5 @@ With the development of the video capabilities and reasoning capabilities of mul
 
 (13 Jun 2024) Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models [arxiv](https://arxiv.org/abs/2406.09403)
 
-(3 May 2023) Visual Chain of Thought: Bridging Logical Gaps with Multimodal Infillings 【arxiv](https://arxiv.org/abs/2305.02317)
+(3 May 2023) Visual Chain of Thought: Bridging Logical Gaps with Multimodal Infillings [arxiv](https://arxiv.org/abs/2305.02317)
 
