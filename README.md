@@ -50,7 +50,13 @@ With the development of the video capabilities and reasoning capabilities of mul
 
 (20 Jun 2024) MMBench-Video: A Long-Form Multi-Shot Benchmark for Holistic Video Understanding [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.14515)
 
+(12 Jun 2024) LVBench: An Extreme Long Video Understanding Benchmark [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.08035)
+
 (24 Apr 2024) Cantor: Inspiring Multimodal Chain-of-Thought of MLLM [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.16033)
+
+(16 Apr 2024) OpenEQA: Embodied Question Answering in the Era of Foundation Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2024/html/Majumdar_OpenEQA_Embodied_Question_Answering_in_the_Era_of_Foundation_Models_CVPR_2024_paper.html)
+
+(17 Aug 2023) EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.09126)
 
 (23 May 2023) Let's Think Frame by Frame with VIP: A Video Infilling and Prediction Dataset for Evaluating Video Chain-of-Thought. [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.13903)
 
