@@ -60,6 +60,8 @@ With the development of the video capabilities and reasoning capabilities of mul
 
 (23 May 2023) Let's Think Frame by Frame with VIP: A Video Infilling and Prediction Dataset for Evaluating Video Chain-of-Thought. [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.13903)
 
+(18 May 2021) NExT-QA:Next Phase of Question-Answering to Explaining Temporal Actions [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2105.08276)
+
 ### Multimodal Reasoning
 
 (23 Jan 2025) Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.13926)
