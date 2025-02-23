@@ -64,17 +64,27 @@ With the development of the video capabilities and reasoning capabilities of mul
 
 ### Multimodal Reasoning
 
+(4 Feb 2025) Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.02339)
+
+(3 Jan 2025) Virgo: A Preliminary Exploration on Reproducing o1-like MLLM [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.01904)
+
 (23 Jan 2025) Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.13926)
 
 (13 Jan 2025) Imagine while Reasoning in Space: Multimodal Visualization-of-Thought [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.07542)
+
+(10 Jan 2025) LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.06186)
 
 (9 Jan 2025) Can MLLMs Reason in Multimodality? EMMA: An Enhanced MultiModal ReAsoning Benchmark [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2501.05444)
 
 (30 Dec 2024) Slow Perception: Let's Perceive Geometric Figures Step-by-step [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.20631)
 
+(19 Dec 2024) Progressive Multimodal Reasoning via Active Retrieval [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14835)
+
 (29 Nov 2024) Interleaved-Modal Chain-of-Thought [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.19488)
 
 (15 Nov 2024) Thinking Before Looking: Improving Multimodal LLM Reasoning via Mitigating Visual Hallucination [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.12591)
+
+(15 Nov 2024) LLaVA-CoT: Let Vision Language Models Reason Step-by-Step [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.10440)
 
 (30 Oct 2024) Vision-Language Models Can Self-Improve Reasoning via Reflection [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.00855)
 
@@ -85,6 +95,8 @@ With the development of the video capabilities and reasoning capabilities of mul
 (11 Oct 2024) M3Hop-CoT: Misogynous Meme Identification with Multimodal Multi-hop Chain-of-Thought [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.09220)
 
 (6 Oct 2024) MC-CoT: A Modular Collaborative CoT Framework for Zero-shot Medical-VQA with LLM and MLLM Integration [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.04521)
+
+(4 Oct 2024) Visual-O1: Understanding Ambiguous Instructions via Multi-modal Multi-turn Chain-of-thoughts Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.03321)
 
 (29 Sep 2024) CoT-ST: Enhancing LLM-based Speech Translation with Multimodal Chain-of-Thought [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.19510)
 
