@@ -10,6 +10,8 @@ With the development of the video capabilities and reasoning capabilities of mul
 
 ### Method
 
+(17 Feb 2025) video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.11775)
+
 (10 Feb 2025) CoS: Chain-of-Shot Prompting for Long Video Understanding [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.06428)
 
 (8 Jan 2025) Building a Mind Palace: Structuring Environment-Grounded Semantic Graphs for Effective Long Video Analysis with LLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.04336v1)
