@@ -118,3 +118,13 @@ With the development of the video capabilities and reasoning capabilities of mul
 
 (2 Feb 2023) Multimodal Chain-of-Thought Reasoning in Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.00923)
 
+### Latent
+
+(12 Feb 2025) Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08482)
+
+(7 Feb 2025) Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.05171)
+
+(9 Dec 2024) Training Large Language Models to Reason in a Continuous Latent Space [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.06769)
+
+
+
