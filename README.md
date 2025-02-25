@@ -126,5 +126,19 @@ With the development of the video capabilities and reasoning capabilities of mul
 
 (9 Dec 2024) Training Large Language Models to Reason in a Continuous Latent Space [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.06769)
 
+### Open Source Project
+
+https://github.com/om-ai-lab/VLM-R1
+
+https://github.com/EvolvingLMMs-Lab/open-r1-multimodal
+
+https://github.com/Deep-Agent/R1-V
+
+https://github.com/TideDra/lmm-r1
+
+https://github.com/tulerfeng/Video-R1
+
+https://github.com/Wang-Xiaodong1899/Open-R1-Video?tab=readme-ov-file
+
 
 
