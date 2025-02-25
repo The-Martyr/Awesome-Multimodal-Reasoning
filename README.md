@@ -138,7 +138,7 @@ https://github.com/TideDra/lmm-r1
 
 https://github.com/tulerfeng/Video-R1
 
-https://github.com/Wang-Xiaodong1899/Open-R1-Video?tab=readme-ov-file
+https://github.com/Wang-Xiaodong1899/Open-R1-Video
 
 
 
