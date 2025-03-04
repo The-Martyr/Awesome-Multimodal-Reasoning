@@ -66,6 +66,8 @@ With the development of the video capabilities and reasoning capabilities of mul
 
 ### Multimodal Reasoning
 
+(3 Mar 2025) Visual-RFT: Visual Reinforcement Fine-Tuning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.01785)
+
 (4 Feb 2025) Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.02339)
 
 (3 Jan 2025) Virgo: A Preliminary Exploration on Reproducing o1-like MLLM [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.01904)
