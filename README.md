@@ -130,6 +130,8 @@ With the development of the video capabilities and reasoning capabilities of mul
 
 ### Open Source Project
 
+https://github.com/OpenRLHF/OpenRLHF-M
+
 https://github.com/om-ai-lab/VLM-R1
 
 https://github.com/EvolvingLMMs-Lab/open-r1-multimodal
