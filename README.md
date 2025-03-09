@@ -2,7 +2,7 @@
 
 This is a repository for organizing papres related to Multimodal Reasoning in Multimodal Large Language Models (Image, Video).
 
-With the development of the visual capabilities and reasoning capabilities(RL powered) of multimodal large language models(MLLMs/LVLMs), researchers have high hopes for the multimodal reasoning capabilities of MLLM/LVLM.
+With the development of the visual capabilities and reasoning capabilities (RL powered) of multimodal large language models(MLLMs/LVLMs), researchers have high hopes for the multimodal reasoning capabilities of MLLM/LVLM.
 
 #### :star: If you find this list useful, welcome to star it!
 
