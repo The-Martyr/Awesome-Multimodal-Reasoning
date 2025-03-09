@@ -1,6 +1,6 @@
 # Awesome-Video-Reasoning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This is a repository for organizing papres related to Video Reasoning in Multimodal Large Language Models.
+This is a repository for organizing papres related to Multimodal Reasoning in Multimodal Large Language Models (Image, Video).
 
 With the development of the video capabilities and reasoning capabilities of multimodal large language models, researchers have high hopes for the video reasoning capabilities of MLLM/LVLM.
 
@@ -8,7 +8,7 @@ With the development of the video capabilities and reasoning capabilities of mul
 
 ## Paper List (Updating...)
 
-### Method
+### Video
 
 (17 Feb 2025) video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.11775)
 
@@ -36,35 +36,7 @@ With the development of the video capabilities and reasoning capabilities of mul
 
 (8 Oct 2024) Temporal Reasoning Transfer from Text to Video. [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.06166)
 
-### Bench/Dataset
-
-(15 Feb 2025) SVBench: A Benchmark with Temporal Multi-Turn Dialogues for Streaming Video Understanding [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.10810v1)
-
-(13 Feb 2025) MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.09621)
-
-(18 Dec 2024) Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces. [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14171)
-
-(22 Nov 2024) VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection. [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.14794v1) [code](https://github.com/hshjerry/VideoEspresso)
-
-(18 Oct 2024) MiCEval: Unveiling Multimodal Chain of Thought's Quality via Image Description and Reasoning Steps [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.14668) 
-
-(7 Jul 2024) VideoCoT: A Video Chain-of-Thought Dataset with Active Annotation Tool [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.05355)
-
-(20 Jun 2024) MMBench-Video: A Long-Form Multi-Shot Benchmark for Holistic Video Understanding [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.14515)
-
-(12 Jun 2024) LVBench: An Extreme Long Video Understanding Benchmark [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.08035)
-
-(24 Apr 2024) Cantor: Inspiring Multimodal Chain-of-Thought of MLLM [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.16033)
-
-(16 Apr 2024) OpenEQA: Embodied Question Answering in the Era of Foundation Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2024/html/Majumdar_OpenEQA_Embodied_Question_Answering_in_the_Era_of_Foundation_Models_CVPR_2024_paper.html)
-
-(17 Aug 2023) EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.09126)
-
-(23 May 2023) Let's Think Frame by Frame with VIP: A Video Infilling and Prediction Dataset for Evaluating Video Chain-of-Thought. [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.13903)
-
-(18 May 2021) NExT-QA:Next Phase of Question-Answering to Explaining Temporal Actions [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2105.08276)
-
-### Multimodal Reasoning
+### Image Reasoning
 
 (3 Mar 2025) Visual-RFT: Visual Reinforcement Fine-Tuning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.01785)
 
@@ -120,6 +92,34 @@ With the development of the video capabilities and reasoning capabilities of mul
 
 (2 Feb 2023) Multimodal Chain-of-Thought Reasoning in Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.00923)
 
+### Bench/Dataset
+
+(15 Feb 2025) SVBench: A Benchmark with Temporal Multi-Turn Dialogues for Streaming Video Understanding [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.10810v1)
+
+(13 Feb 2025) MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.09621)
+
+(18 Dec 2024) Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces. [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14171)
+
+(22 Nov 2024) VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection. [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.14794v1) [code](https://github.com/hshjerry/VideoEspresso)
+
+(18 Oct 2024) MiCEval: Unveiling Multimodal Chain of Thought's Quality via Image Description and Reasoning Steps [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.14668) 
+
+(7 Jul 2024) VideoCoT: A Video Chain-of-Thought Dataset with Active Annotation Tool [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.05355)
+
+(20 Jun 2024) MMBench-Video: A Long-Form Multi-Shot Benchmark for Holistic Video Understanding [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.14515)
+
+(12 Jun 2024) LVBench: An Extreme Long Video Understanding Benchmark [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.08035)
+
+(24 Apr 2024) Cantor: Inspiring Multimodal Chain-of-Thought of MLLM [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.16033)
+
+(16 Apr 2024) OpenEQA: Embodied Question Answering in the Era of Foundation Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2024/html/Majumdar_OpenEQA_Embodied_Question_Answering_in_the_Era_of_Foundation_Models_CVPR_2024_paper.html)
+
+(17 Aug 2023) EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.09126)
+
+(23 May 2023) Let's Think Frame by Frame with VIP: A Video Infilling and Prediction Dataset for Evaluating Video Chain-of-Thought. [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.13903)
+
+(18 May 2021) NExT-QA:Next Phase of Question-Answering to Explaining Temporal Actions [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2105.08276)
+
 ### Latent
 
 (12 Feb 2025) Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08482)
@@ -129,6 +129,8 @@ With the development of the video capabilities and reasoning capabilities of mul
 (9 Dec 2024) Training Large Language Models to Reason in a Continuous Latent Space [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.06769)
 
 ### Open Source Project
+
+https://github.com/ModalMinds/MM-EUREKA
 
 https://github.com/OpenRLHF/OpenRLHF-M
 
