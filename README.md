@@ -134,6 +134,8 @@ https://github.com/ModalMinds/MM-EUREKA
 
 https://github.com/OpenRLHF/OpenRLHF-M
 
+https://github.com/Fancy-MLLM/R1-Onevision
+
 https://github.com/om-ai-lab/VLM-R1
 
 https://github.com/EvolvingLMMs-Lab/open-r1-multimodal
