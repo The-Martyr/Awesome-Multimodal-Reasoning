@@ -4,37 +4,11 @@ This is a repository for organizing papres related to Multimodal Reasoning in Mu
 
 With the development of the visual capabilities and reasoning capabilities (RL powered) of multimodal large language models(MLLMs/LVLMs), researchers have high hopes for the multimodal reasoning capabilities of MLLM/LVLM.
 
+This repo also select paper about visual generation with RL/CoT.
+
 #### :star: If you find this list useful, welcome to star it!
 
 ## Paper List (Updating...)
-
-### Video
-
-(17 Feb 2025) video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.11775)
-
-(10 Feb 2025) CoS: Chain-of-Shot Prompting for Long Video Understanding [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.06428)
-
-(8 Jan 2025) Building a Mind Palace: Structuring Environment-Grounded Semantic Graphs for Effective Long Video Analysis with LLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.04336v1)
-
-(3 Dec 2024) VideoGen-of-Thought: A Collaborative Framework for Multi-Shot Video Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.02259)
-
-(2 Dec 2024) Enhancing Video-LLM Reasoning via Agent-of-Thoughts Distillation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.01694v2)
-
-(29 Nov 2024) STEP: Enhancing Video-LLMs' Compositional Reasoning by Spatio-Temporal Graph-guided Self-Training [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.00161v1)
-
-(21 Oct 2024) Improve Vision Language Model Chain-of-thought Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.16198)
-
-(12 Oct 2024) Interpretable Video based Stress Detection with Self-Refine Chain-of-thought Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.09449v2)
-
-(27 Sep 2024) Temporal2Seq: A Unified Framework for Temporal Video Understanding Tasks [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.18478)
-
-(28 Aug 2024) Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.15876v2)
-
-(24 May 2024) Chain-of-Thought Prompting for Demographic Inference with Large Multimodal Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.15687)
-
-(7 May 2024) Video-of-Thought: Step-by-Step Video Reasoning from Perception to Cognition. [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.03230) [code](https://github.com/scofield7419/Video-of-Thought)
-
-(8 Oct 2024) Temporal Reasoning Transfer from Text to Video. [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.06166)
 
 ### Image Reasoning
 
@@ -43,8 +17,6 @@ With the development of the visual capabilities and reasoning capabilities (RL p
 (4 Feb 2025) Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.02339)
 
 (3 Jan 2025) Virgo: A Preliminary Exploration on Reproducing o1-like MLLM [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.01904)
-
-(23 Jan 2025) Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.13926)
 
 (13 Jan 2025) Imagine while Reasoning in Space: Multimodal Visualization-of-Thought [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.07542)
 
@@ -91,6 +63,41 @@ With the development of the visual capabilities and reasoning capabilities (RL p
 (16 Apr 2023) Chain of Thought Prompt Tuning in Vision Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.07919)
 
 (2 Feb 2023) Multimodal Chain-of-Thought Reasoning in Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.00923)
+
+### Video
+
+(17 Feb 2025) video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.11775)
+
+(10 Feb 2025) CoS: Chain-of-Shot Prompting for Long Video Understanding [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.06428)
+
+(8 Jan 2025) Building a Mind Palace: Structuring Environment-Grounded Semantic Graphs for Effective Long Video Analysis with LLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.04336v1)
+
+(3 Dec 2024) VideoGen-of-Thought: A Collaborative Framework for Multi-Shot Video Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.02259)
+
+(2 Dec 2024) Enhancing Video-LLM Reasoning via Agent-of-Thoughts Distillation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.01694v2)
+
+(29 Nov 2024) STEP: Enhancing Video-LLMs' Compositional Reasoning by Spatio-Temporal Graph-guided Self-Training [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.00161v1)
+
+(21 Oct 2024) Improve Vision Language Model Chain-of-thought Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.16198)
+
+(12 Oct 2024) Interpretable Video based Stress Detection with Self-Refine Chain-of-thought Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.09449v2)
+
+(27 Sep 2024) Temporal2Seq: A Unified Framework for Temporal Video Understanding Tasks [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.18478)
+
+(28 Aug 2024) Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.15876v2)
+
+(24 May 2024) Chain-of-Thought Prompting for Demographic Inference with Large Multimodal Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.15687)
+
+(7 May 2024) Video-of-Thought: Step-by-Step Video Reasoning from Perception to Cognition. [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.03230) [code](https://github.com/scofield7419/Video-of-Thought)
+
+(8 Oct 2024) Temporal Reasoning Transfer from Text to Video. [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.06166)
+
+
+Image Generation
+
+(3 Mar 2025) MINT: Multi-modal Chain of Thought in Unified Generative Models for Enhanced Image Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2503.01298)
+
+(23 Jan 2025) Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.13926)
 
 ### Bench/Dataset
 
