@@ -1,8 +1,8 @@
-# Awesome-Video-Reasoning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome-Multimodal-Reasoning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This is a repository for organizing papres related to Multimodal Reasoning in Multimodal Large Language Models (Image, Video).
 
-With the development of the video capabilities and reasoning capabilities of multimodal large language models, researchers have high hopes for the video reasoning capabilities of MLLM/LVLM.
+With the development of the visual capabilities and reasoning capabilities of multimodal large language models(MLLMs/LVLMs), researchers have high hopes for the multimodal reasoning capabilities of MLLM/LVLM.
 
 #### :star: If you find this list useful, welcome to star it!
 
