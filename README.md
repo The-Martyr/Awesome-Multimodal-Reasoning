@@ -137,6 +137,8 @@ Image Generation
 
 ### Open Source Project
 
+https://github.com/Osilly/Vision-R1
+
 https://github.com/ModalMinds/MM-EUREKA
 
 https://github.com/OpenRLHF/OpenRLHF-M
