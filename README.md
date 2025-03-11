@@ -14,6 +14,8 @@ This repo also select paper about visual generation with RL/CoT.
 
 (9 Mar 2025) Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.06749)
 
+(7 Mar 2025) R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.05132)
+
 (3 Mar 2025) Visual-RFT: Visual Reinforcement Fine-Tuning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.01785)
 
 (4 Feb 2025) Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.02339)
