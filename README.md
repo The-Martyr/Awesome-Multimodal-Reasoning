@@ -12,6 +12,8 @@ This repo also select paper about visual generation with RL/CoT.
 
 ### Image Reasoning
 
+(7 Mar 2025) R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.05379)
+
 (9 Mar 2025) Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.06749)
 
 (7 Mar 2025) R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.05132)
@@ -140,6 +142,8 @@ Image Generation
 (9 Dec 2024) Training Large Language Models to Reason in a Continuous Latent Space [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.06769)
 
 ### Open Source Project
+
+https://huggingface.co/papers/2503.05379
 
 https://github.com/Osilly/Vision-R1
 
