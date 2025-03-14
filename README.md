@@ -98,7 +98,6 @@ This repo also select paper about visual generation with RL/CoT.
 
 (8 Oct 2024) Temporal Reasoning Transfer from Text to Video. [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.06166)
 
-
 Image Generation
 
 (13 Mar 2025) GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.10639)
@@ -110,6 +109,8 @@ Image Generation
 ### Bench/Dataset
 
 (15 Feb 2025) SVBench: A Benchmark with Temporal Multi-Turn Dialogues for Streaming Video Understanding [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.10810v1)
+
+(14 Feb 2025) MM-RLHF: The Next Step Forward in Multimodal LLM Alignment [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.10391)
 
 (13 Feb 2025) MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.09621)
 
