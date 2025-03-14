@@ -101,6 +101,8 @@ This repo also select paper about visual generation with RL/CoT.
 
 Image Generation
 
+(13 Mar 2025) GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.10639)
+
 (3 Mar 2025) MINT: Multi-modal Chain of Thought in Unified Generative Models for Enhanced Image Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2503.01298)
 
 (23 Jan 2025) Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.13926)
