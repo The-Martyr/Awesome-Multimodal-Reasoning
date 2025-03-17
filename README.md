@@ -2,7 +2,7 @@
 
 This is a repository for organizing papres related to Multimodal Reasoning in Multimodal Large Language Models (Image, Video).
 
-With the development of the visual capabilities and reasoning capabilities (RL powered) of multimodal large language models(MLLMs/LVLMs), researchers have high hopes for the multimodal reasoning capabilities of MLLM/LVLM.
+With the development of the visual (audio) capabilities and reasoning capabilities (RL powered) of multimodal large language models(MLLMs/LVLMs/LSLMs), researchers have high hopes for the multimodal reasoning capabilities of MLLM/LVLM/LSLM.
 
 This repo also select paper about visual generation with RL/CoT.
 
@@ -100,7 +100,11 @@ This repo also select paper about visual generation with RL/CoT.
 
 (8 Oct 2024) Temporal Reasoning Transfer from Text to Video. [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.06166)
 
-Image Generation
+### Audio
+
+(14 Mar 2025) Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.11197)
+
+### Image Generation
 
 (13 Mar 2025) GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.10639)
 
