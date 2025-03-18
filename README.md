@@ -10,6 +10,10 @@ This repo also select paper about visual generation with RL/CoT.
 
 ## Paper List (Updating...)
 
+### Survey
+
+(16 Mar 2025) Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.12605)
+
 ### Image Reasoning
 
 (13 Mar 2025) VisualPRM: An Effective Process Reward Model for Multimodal Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.10291)
