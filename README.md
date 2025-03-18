@@ -152,6 +152,8 @@ This repo also select paper about visual generation with RL/CoT.
 
 ### Open Source Project
 
+https://github.com/SkyworkAI/Skywork-R1V
+
 https://huggingface.co/papers/2503.05379
 
 https://github.com/Osilly/Vision-R1
