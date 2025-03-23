@@ -160,6 +160,8 @@ This repo also select paper about visual generation with RL/CoT.
 
 ### Open Source Project
 
+https://github.com/Hui-design/Open-LLaVA-Video-R1
+
 https://github.com/SkyworkAI/Skywork-R1V
 
 https://huggingface.co/papers/2503.05379
