@@ -114,6 +114,8 @@ This repo also select paper about visual generation with RL/CoT.
 
 ### Image Generation
 
+(26 Mar 2025) MMGen: Unified Multi-modal Image Generation and Understanding in One Go [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.20644)
+
 (13 Mar 2025) GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.10639)
 
 (3 Mar 2025) MINT: Multi-modal Chain of Thought in Unified Generative Models for Enhanced Image Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2503.01298)
