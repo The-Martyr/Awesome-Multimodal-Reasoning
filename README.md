@@ -82,6 +82,8 @@ This repo also select paper about visual generation with RL/CoT.
 
 ### Video
 
+(27 Mar 2025) Video-R1: Reinforcing Video Reasoning in MLLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.21776v1)
+
 (17 Feb 2025) video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.11775)
 
 (10 Feb 2025) CoS: Chain-of-Shot Prompting for Long Video Understanding [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.06428)
