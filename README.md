@@ -18,6 +18,8 @@ This repo also select paper about visual generation with RL/CoT.
 
 ### Image Reasoning
 
+(1 Apr 2025) Improved Visual-Spatial Reasoning via R1-Zero-Like Training [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.00883)
+
 (17 Mar 2025) R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.12937)
 
 (13 Mar 2025) VisualPRM: An Effective Process Reward Model for Multimodal Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.10291)
