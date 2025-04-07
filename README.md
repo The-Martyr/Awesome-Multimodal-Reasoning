@@ -12,6 +12,8 @@ This repo also select paper about visual generation with RL/CoT.
 
 ### Survey
 
+(4 Apr 2025) Why Reasoning Matters? A Survey of Advancements in Multimodal Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.03151v1)
+
 (18 Mar 2025) Aligning Multimodal LLM with Human Preference: A Survey [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.14504)
 
 (16 Mar 2025) Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.12605)
