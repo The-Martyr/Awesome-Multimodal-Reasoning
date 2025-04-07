@@ -130,6 +130,8 @@ This repo also select paper about visual generation with RL/CoT.
 
 ### Bench/Dataset
 
+(4 Apr 2025) Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.02587v2)
+
 (15 Feb 2025) SVBench: A Benchmark with Temporal Multi-Turn Dialogues for Streaming Video Understanding [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.10810v1)
 
 (14 Feb 2025) MM-RLHF: The Next Step Forward in Multimodal LLM Alignment [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.10391)
