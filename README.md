@@ -18,6 +18,10 @@ This repo also select paper about visual generation with RL/CoT.
 
 (16 Mar 2025) Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.12605)
 
+### Api
+
+https://yuewen.cn/chats/new
+
 ### Image Reasoning
 
 (1 Apr 2025) Improved Visual-Spatial Reasoning via R1-Zero-Like Training [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.00883)
