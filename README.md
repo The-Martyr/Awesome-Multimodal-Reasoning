@@ -138,6 +138,12 @@ https://yuewen.cn/chats/new
 
 ### Bench/Dataset
 
+(8 Apr 2025) ChartQAPro: A More Diverse and Challenging Benchmark for Chart Question Answering [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.05506v1)
+
+(8 Apr 2025) V-MAGE: A Game Evaluation Framework for Assessing Visual-Centric Capabilities in Multimodal Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.06148v1)
+
+(8 Apr 2025) MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.05782v1)
+
 (4 Apr 2025) Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.02587v2)
 
 (15 Feb 2025) SVBench: A Benchmark with Temporal Multi-Turn Dialogues for Streaming Video Understanding [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.10810v1)
