@@ -24,6 +24,10 @@ https://yuewen.cn/chats/new
 
 ### Image Reasoning
 
+(8 Apr 2025) On the Suitability of Reinforcement Fine-Tuning to Visual Tasks [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.05682v1)
+
+(8 Apr 2025) Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.05599v1)
+
 (1 Apr 2025) Improved Visual-Spatial Reasoning via R1-Zero-Like Training [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.00883)
 
 (17 Mar 2025) R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.12937)
