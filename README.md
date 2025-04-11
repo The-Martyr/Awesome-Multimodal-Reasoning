@@ -24,6 +24,14 @@ https://yuewen.cn/chats/new
 
 ### Image Reasoning
 
+(10 Apr 2025) VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.07615v1)
+
+(10 Apr 2025) SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.07934v1)
+
+(10 Apr 2025) Perception-R1: Pioneering Perception Policy with Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.07954v1)
+
+(10 Apr 2025) Kimi-VL Technical Report [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.07491)
+
 (8 Apr 2025) On the Suitability of Reinforcement Fine-Tuning to Visual Tasks [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.05682v1)
 
 (8 Apr 2025) Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.05599v1)
