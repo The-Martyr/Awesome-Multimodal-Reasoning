@@ -24,6 +24,8 @@ https://yuewen.cn/chats/new
 
 ### Image Reasoning
 
+(12 Apr 2025) VisuoThink: Empowering LVLM Reasoning with Multimodal Tree Search [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.09130v1)
+
 (10 Apr 2025) VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.07615v1)
 
 (10 Apr 2025) SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.07934v1)
@@ -145,6 +147,8 @@ https://yuewen.cn/chats/new
 (23 Jan 2025) Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.13926)
 
 ### Bench/Dataset
+
+(14 Apr 2025) VisualPuzzles: Decoupling Multimodal Reasoning Evaluation from Domain Knowledge [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.10342v1)
 
 (8 Apr 2025) ChartQAPro: A More Diverse and Challenging Benchmark for Chart Question Answering [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.05506v1)
 
