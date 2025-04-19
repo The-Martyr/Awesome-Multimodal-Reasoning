@@ -148,6 +148,8 @@ https://yuewen.cn/chats/new
 
 ### Bench/Dataset
 
+(17 Apr 2025) Complex-Edit: CoT-Like Instruction Generation for Complexity-Controllable Image Editing Benchmark [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.13143)
+
 (14 Apr 2025) VisualPuzzles: Decoupling Multimodal Reasoning Evaluation from Domain Knowledge [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.10342v1)
 
 (8 Apr 2025) ChartQAPro: A More Diverse and Challenging Benchmark for Chart Question Answering [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.05506v1)
