@@ -148,6 +148,8 @@ https://yuewen.cn/chats/new
 
 ### Bench/Dataset
 
+(16 Apr 2025) FLIP Reasoning Challenge [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.12256v1)
+
 (17 Apr 2025) Complex-Edit: CoT-Like Instruction Generation for Complexity-Controllable Image Editing Benchmark [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.13143)
 
 (14 Apr 2025) VisualPuzzles: Decoupling Multimodal Reasoning Evaluation from Domain Knowledge [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.10342v1)
