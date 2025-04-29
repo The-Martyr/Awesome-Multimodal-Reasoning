@@ -4,7 +4,7 @@ This is a repository for organizing papres related to Multimodal Reasoning in Mu
 
 With the development of the visual (audio) capabilities and reasoning capabilities (RL powered) of multimodal large language models(MLLMs/LVLMs/LSLMs), researchers have high hopes for the multimodal reasoning capabilities of MLLM/LVLM/LSLM.
 
-This repo also select paper about visual generation with RL/CoT.
+This repo also select paper about visual generation (image generation/video generation) with RL/CoT.
 
 #### :star: If you find this list useful, welcome to star it!
 
