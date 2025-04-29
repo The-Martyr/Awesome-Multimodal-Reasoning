@@ -24,6 +24,18 @@ https://yuewen.cn/chats/new
 
 ### Image Reasoning
 
+(28 Apr 2025) SpatialReasoner: Towards Explicit and Generalizable 3D Spatial Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.20024v1)
+
+(25 Apr 2025) Fast-Slow Thinking for Large Vision-Language Model Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.18458v1)
+
+(25 Apr 2025) Unsupervised Visual Chain-of-Thought Reasoning via Preference Optimization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.18397v1)
+
+(25 Apr 2025) Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.16656v1)
+
+(21 Apr 2025) A Call for New Recipes to Enhance Spatial Reasoning in MLLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.15037v1)
+
+(20 Apr 2025) Relation-R1: Cognitive Chain-of-Thought Guided Reinforcement Learning for Unified Relational Comprehension [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.14642v1)
+
 (12 Apr 2025) VisuoThink: Empowering LVLM Reasoning with Multimodal Tree Search [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.09130v1)
 
 (10 Apr 2025) VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.07615v1)
@@ -136,7 +148,11 @@ https://yuewen.cn/chats/new
 
 (14 Mar 2025) Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.11197)
 
-### Image Generation
+### Image/Video Generation
+
+(22 Apr 2025) From Reflection to Perfection: Scaling Inference-Time Optimization for Text-to-Image Diffusion Models via Reflection Tuning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.16080v1)
+
+(22 Apr 2025) Reasoning Physical Video Generation with Diffusion Timestep Tokens via Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.15932v1)
 
 (26 Mar 2025) MMGen: Unified Multi-modal Image Generation and Understanding in One Go [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.20644)
 
@@ -148,9 +164,13 @@ https://yuewen.cn/chats/new
 
 ### Bench/Dataset
 
-(16 Apr 2025) FLIP Reasoning Challenge [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.12256v1)
+(21 Apr 2025) IV-Bench: A Benchmark for Image-Grounded Video Perception and Reasoning in Multimodal LLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.15415v1)
+
+(21 Apr 2025) VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.15279v1)
 
 (17 Apr 2025) Complex-Edit: CoT-Like Instruction Generation for Complexity-Controllable Image Editing Benchmark [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.13143)
+
+(16 Apr 2025) FLIP Reasoning Challenge [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.12256v1)
 
 (14 Apr 2025) VisualPuzzles: Decoupling Multimodal Reasoning Evaluation from Domain Knowledge [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.10342v1)
 
