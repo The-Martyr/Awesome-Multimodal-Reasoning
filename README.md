@@ -150,6 +150,8 @@ https://yuewen.cn/chats/new
 
 ### Image/Video Generation
 
+(1 May 2025) T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.00703)
+
 (22 Apr 2025) From Reflection to Perfection: Scaling Inference-Time Optimization for Text-to-Image Diffusion Models via Reflection Tuning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.16080v1)
 
 (22 Apr 2025) Reasoning Physical Video Generation with Diffusion Timestep Tokens via Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.15932v1)
