@@ -12,6 +12,8 @@ This repo also select paper about visual generation (image generation/video gene
 
 ### Survey
 
+(30 Apr 2025) Reinforced MLLM: A Survey on RL-Based Reasoning in Multimodal Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.21277v1)
+
 (4 Apr 2025) Why Reasoning Matters? A Survey of Advancements in Multimodal Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.03151v1)
 
 (18 Mar 2025) Aligning Multimodal LLM with Human Preference: A Survey [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.14504)
@@ -165,6 +167,10 @@ https://yuewen.cn/chats/new
 (23 Jan 2025) Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.13926)
 
 ### Bench/Dataset
+
+(1 May 2025) MINERVA: Evaluating Complex Video Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.00681v1)
+
+(30 Apr 2025) GDI-Bench: A Benchmark for General Document Intelligence with Vision and Reasoning Decoupling [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.00063v1)
 
 (21 Apr 2025) IV-Bench: A Benchmark for Image-Grounded Video Perception and Reasoning in Multimodal LLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.15415v1)
 
