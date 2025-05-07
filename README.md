@@ -26,6 +26,10 @@ https://yuewen.cn/chats/new
 
 ### Image Reasoning
 
+(6 May 2025) Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.03318v1)
+
+(6 May 2025) ReGraP-LLaVA: Reasoning enabled Graph-based Personalized Large Language and Vision Assistant [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.03654v1)
+
 (5 May 2025) R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.02835v1)
 
 (28 Apr 2025) SpatialReasoner: Towards Explicit and Generalizable 3D Spatial Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.20024v1)
