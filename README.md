@@ -26,6 +26,8 @@ https://yuewen.cn/chats/new
 
 ### Image Reasoning
 
+(6 May 2025) X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.03981v1)
+
 (6 May 2025) Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.03318v1)
 
 (6 May 2025) ReGraP-LLaVA: Reasoning enabled Graph-based Personalized Large Language and Vision Assistant [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.03654v1)
