@@ -12,6 +12,8 @@ This repo also select paper about visual generation (image generation/video gene
 
 ### Survey
 
+(8 May 2025) Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.04921v1)
+
 (30 Apr 2025) Reinforced MLLM: A Survey on RL-Based Reasoning in Multimodal Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.21277v1)
 
 (4 Apr 2025) Why Reasoning Matters? A Survey of Advancements in Multimodal Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.03151v1)
@@ -25,6 +27,10 @@ This repo also select paper about visual generation (image generation/video gene
 https://yuewen.cn/chats/new
 
 ### Image Reasoning
+
+(8 May 2025) Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.05464v1)
+
+( 8 May 2025) SpatialPrompting: Keyframe-driven Zero-Shot Spatial Reasoning with Off-the-Shelf Multimodal Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.04911v1)
 
 (6 May 2025) X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.03981v1)
 
@@ -159,6 +165,8 @@ https://yuewen.cn/chats/new
 (14 Mar 2025) Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.11197)
 
 ### Image/Video Generation
+
+(8 May 2025) Flow-GRPO: Training Flow Matching Models via Online RL [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.05470v1)
 
 (1 May 2025) T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.00703)
 
