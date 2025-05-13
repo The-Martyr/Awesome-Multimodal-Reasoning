@@ -28,6 +28,8 @@ https://yuewen.cn/chats/new
 
 ### Image Reasoning
 
+(12 May 2025) Skywork-VL Reward: An Effective Reward Model for Multimodal Understanding and Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.07263v1)
+
 (8 May 2025) Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.05464v1)
 
 ( 8 May 2025) SpatialPrompting: Keyframe-driven Zero-Shot Spatial Reasoning with Off-the-Shelf Multimodal Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.04911v1)
@@ -165,6 +167,8 @@ https://yuewen.cn/chats/new
 (14 Mar 2025) Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.11197)
 
 ### Image/Video Generation
+
+(12 May 2025) DanceGRPO: Unleashing GRPO on Visual Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.07818v1)
 
 (8 May 2025) Flow-GRPO: Training Flow Matching Models via Online RL [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.05470v1)
 
