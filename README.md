@@ -74,9 +74,11 @@ https://yuewen.cn/chats/new
 
 (13 Mar 2025) VisualPRM: An Effective Process Reward Model for Multimodal Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.10291)
 
+(9 Mar 2025) Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.06749)
+
 (7 Mar 2025) R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.05379)
 
-(9 Mar 2025) Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.06749)
+(7 Mar 2025) Unified Reward Model for Multimodal Understanding and Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.05236)
 
 (7 Mar 2025) R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.05132)
 
