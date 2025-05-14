@@ -28,6 +28,8 @@ https://yuewen.cn/chats/new
 
 ### Image Reasoning
 
+(13 May 2025) OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.08617v1)
+
 (12 May 2025) Skywork-VL Reward: An Effective Reward Model for Multimodal Understanding and Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.07263v1)
 
 (8 May 2025) Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.05464v1)
@@ -189,6 +191,8 @@ https://yuewen.cn/chats/new
 (23 Jan 2025) Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.13926)
 
 ### Bench/Dataset
+
+(13 May 2025) VCRBench: Exploring Long-form Causal Reasoning Capabilities of Large Video Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.08455v1)
 
 (1 May 2025) MINERVA: Evaluating Complex Video Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.00681v1)
 
