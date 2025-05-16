@@ -28,6 +28,8 @@ https://yuewen.cn/chats/new
 
 ### Image Reasoning
 
+(15 May 2025) MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.10557v1)
+
 (13 May 2025) OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.08617v1)
 
 (12 May 2025) Skywork-VL Reward: An Effective Reward Model for Multimodal Understanding and Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.07263v1)
@@ -172,6 +174,8 @@ https://yuewen.cn/chats/new
 
 ### Image/Video Generation
 
+(15 May 2025) Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.10446v1)
+
 (12 May 2025) DanceGRPO: Unleashing GRPO on Visual Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.07818v1)
 
 (8 May 2025) Flow-GRPO: Training Flow Matching Models via Online RL [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.05470v1)
@@ -191,6 +195,8 @@ https://yuewen.cn/chats/new
 (23 Jan 2025) Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.13926)
 
 ### Bench/Dataset
+
+(15 May 2025) StoryReasoning Dataset: Using Chain-of-Thought for Scene Understanding and Grounded Story Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.10292v1)
 
 (13 May 2025) VCRBench: Exploring Long-form Causal Reasoning Capabilities of Large Video Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.08455v1)
 
