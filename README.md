@@ -28,6 +28,8 @@ https://yuewen.cn/chats/new
 
 ### Image Reasoning
 
+(16 May 2025) Visual Planning: Let's Think Only with Images [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.11409v1)
+
 (15 May 2025) MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.10557v1)
 
 (13 May 2025) OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.08617v1)
@@ -173,6 +175,10 @@ https://yuewen.cn/chats/new
 (14 Mar 2025) Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.11197)
 
 ### Image/Video Generation
+
+(16 May 2025) Towards Self-Improvement of Diffusion Models via Group Preference Optimization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.11070v1)
+
+(16 May 2025) Diffusion-NPO: Negative Preference Optimization for Better Preference Aligned Generation of Diffusion Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.11245v1)
 
 (15 May 2025) Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.10446v1)
 
