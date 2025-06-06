@@ -28,6 +28,12 @@ https://yuewen.cn/chats/new
 
 ### Image Reasoning
 
+(5 Jun 2025) Perceptual Decoupling for Scalable Multi-modal Reasoning via Reward-Optimized Captioning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.04559)
+
+(5 Jun 2025) Perceive Anything: Recognize, Explain, Caption, and Segment Anything in Images and Videos [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.05302)
+
+(5 Jun 2025) MINT-CoT: Enabling Interleaved Visual Tokens in Mathematical Chain-of-Thought Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.05331)
+
 (16 May 2025) Visual Planning: Let's Think Only with Images [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.11409v1)
 
 (15 May 2025) MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.10557v1)
@@ -201,6 +207,10 @@ https://yuewen.cn/chats/new
 (23 Jan 2025) Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.13926)
 
 ### Bench/Dataset
+
+(5 Jun 2025) VideoMathQA: Benchmarking Mathematical Reasoning via Multimodal Understanding in Videos [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.05349)
+
+(5 Jun 2025) MMSU: A Massive Multi-task Spoken Language Understanding and Reasoning Benchmark [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.04779)
 
 (15 May 2025) StoryReasoning Dataset: Using Chain-of-Thought for Scene Understanding and Grounded Story Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.10292v1)
 
