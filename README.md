@@ -28,6 +28,8 @@ https://yuewen.cn/chats/new
 
 ### Image Reasoning
 
+(11 Jun 2025) ViCrit: A Verifiable Reinforcement Learning Proxy Task for Visual Perception in VLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.10128v1)
+
 (5 Jun 2025) Perceptual Decoupling for Scalable Multi-modal Reasoning via Reward-Optimized Captioning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.04559)
 
 (5 Jun 2025) Perceive Anything: Recognize, Explain, Caption, and Segment Anything in Images and Videos [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.05302)
@@ -148,6 +150,8 @@ https://yuewen.cn/chats/new
 
 ### Video
 
+(12 Jun 2025) CogStream: Context-guided Streaming Video Question Answering [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.10516v1)
+
 (6 Jun 2025) VideoChat-A1: Thinking with Long Videos by Chain-of-Shot Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.06097v1)
 
 (27 Mar 2025) Video-R1: Reinforcing Video Reasoning in MLLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.21776v1)
@@ -209,6 +213,10 @@ https://yuewen.cn/chats/new
 (23 Jan 2025) Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.13926)
 
 ### Bench/Dataset
+
+(12 Jun 2025) VRBench: A Benchmark for Multi-Step Reasoning in Long Narrative Videos [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.10857v1)
+
+(12 Jun 2025) MMMG: A Massive, Multidisciplinary, Multi-Tier Generation Benchmark for Text-to-Image Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.10963v1)
 
 (6 Jun 2025) PuzzleWorld: A Benchmark for Multimodal, Open-Ended Reasoning in Puzzlehunts [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.06211v1)
 
