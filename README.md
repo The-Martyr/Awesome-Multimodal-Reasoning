@@ -28,6 +28,8 @@ https://yuewen.cn/chats/new
 
 ### Image Reasoning
 
+(16 Jun 2025) Metis-RISE: RL Incentivizes and SFT Enhances Multimodal Reasoning Model Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.13056v1)
+
 (11 Jun 2025) ViCrit: A Verifiable Reinforcement Learning Proxy Task for Visual Perception in VLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.10128v1)
 
 (5 Jun 2025) Perceptual Decoupling for Scalable Multi-modal Reasoning via Reward-Optimized Captioning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.04559)
