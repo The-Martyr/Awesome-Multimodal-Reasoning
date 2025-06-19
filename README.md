@@ -190,6 +190,8 @@ https://yuewen.cn/chats/new
 
 ### Image/Video Generation
 
+(17 Jun 2025) SIRI-Bench: Challenging VLMs' Spatial Intelligence through Complex Reasoning Tasks [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.14512v1)
+
 (16 May 2025) Towards Self-Improvement of Diffusion Models via Group Preference Optimization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.11070v1)
 
 (16 May 2025) Diffusion-NPO: Negative Preference Optimization for Better Preference Aligned Generation of Diffusion Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.11245v1)
