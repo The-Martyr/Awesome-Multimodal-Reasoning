@@ -28,6 +28,8 @@ https://yuewen.cn/chats/new
 
 ### Image Reasoning
 
+(20 Jun 2025) GRPO-CARE: Consistency-Aware Reinforcement Learning for Multimodal Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.16141)
+
 (16 Jun 2025) Metis-RISE: RL Incentivizes and SFT Enhances Multimodal Reasoning Model Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.13056v1)
 
 (11 Jun 2025) ViCrit: A Verifiable Reinforcement Learning Proxy Task for Visual Perception in VLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.10128v1)
@@ -189,6 +191,8 @@ https://yuewen.cn/chats/new
 (14 Mar 2025) Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.11197)
 
 ### Image/Video Generation
+
+(20 Jun 2025) RealSR-R1: Reinforcement Learning for Real-World Image Super-Resolution with Vision-Language Chain-of-Thought [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.16796)
 
 (17 Jun 2025) SIRI-Bench: Challenging VLMs' Spatial Intelligence through Complex Reasoning Tasks [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.14512v1)
 
