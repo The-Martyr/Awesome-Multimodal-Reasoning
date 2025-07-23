@@ -28,6 +28,8 @@ https://yuewen.cn/chats/new
 
 ### Image Reasoning
 
+(22 Jul 2025) C2-Evo: Co-Evolving Multimodal Data and Model for Self-Improving Reasoning
+
 (22 Jul 2025) Semi-off-Policy Reinforcement Learning for Vision-Language Slow-thinking Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.16814)
 
 (11 Jul 2025) M2-Reasoning: Empowering MLLMs with Unified General and Spatial Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.08306v1)
@@ -196,6 +198,8 @@ https://yuewen.cn/chats/new
 
 ### Audio
 
+(22 Jul 2025) Step-Audio 2 Technical Report [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.16632v1)
+
 (14 Mar 2025) Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.11197)
 
 ### Image/Video Generation
@@ -229,6 +233,10 @@ https://yuewen.cn/chats/new
 (23 Jan 2025) Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.13926)
 
 ### Bench/Dataset
+
+(22 Jul 2025) ReasonVQA: A Multi-hop Reasoning Benchmark with Structural Knowledge for Visual Question Answering [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.16403v1)
+
+(22 Jul 2025) Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.16746v1)
 
 (12 Jun 2025) VRBench: A Benchmark for Multi-Step Reasoning in Long Narrative Videos [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.10857v1)
 
