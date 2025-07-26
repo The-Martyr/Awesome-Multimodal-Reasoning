@@ -28,7 +28,11 @@ https://yuewen.cn/chats/new
 
 ### Image Reasoning
 
-(22 Jul 2025) C2-Evo: Co-Evolving Multimodal Data and Model for Self-Improving Reasoning
+(24 Jul 2025) MathOPEval: A Fine-grained Evaluation Benchmark for Visual Operations of MLLMs in Mathematical Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.18140v1)
+
+(24 Jul 2025) SafeWork-R1: Coevolving Safety and Intelligence under the AI-45 Law [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.18576v1)
+
+(22 Jul 2025) C2-Evo: Co-Evolving Multimodal Data and Model for Self-Improving Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2507.16518)
 
 (22 Jul 2025) Semi-off-Policy Reinforcement Learning for Vision-Language Slow-thinking Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.16814)
 
