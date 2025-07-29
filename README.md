@@ -28,6 +28,8 @@ https://yuewen.cn/chats/new
 
 ### Image Reasoning
 
+(28 Jul 2025) Learning Only with Images: Visual Reinforcement Learning with Reasoning, Rendering, and Visual Feedback [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.20766v1)
+
 (24 Jul 2025) MathOPEval: A Fine-grained Evaluation Benchmark for Visual Operations of MLLMs in Mathematical Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.18140v1)
 
 (24 Jul 2025) SafeWork-R1: Coevolving Safety and Intelligence under the AI-45 Law [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.18576v1)
