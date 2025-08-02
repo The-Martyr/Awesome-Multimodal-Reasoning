@@ -212,6 +212,8 @@ https://yuewen.cn/chats/new
 
 ### Image/Video Generation
 
+(28 Jul 2025) Multimodal LLMs as Customized Reward Models for Text-to-Image Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.21391v2)
+
 (20 Jun 2025) RealSR-R1: Reinforcement Learning for Real-World Image Super-Resolution with Vision-Language Chain-of-Thought [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.16796)
 
 (17 Jun 2025) SIRI-Bench: Challenging VLMs' Spatial Intelligence through Complex Reasoning Tasks [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.14512v1)
