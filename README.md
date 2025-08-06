@@ -28,6 +28,8 @@ https://yuewen.cn/chats/new
 
 ### Image Reasoning
 
+(5 Aug 2025) Geoint-R1: Formalizing Multimodal Geometric Reasoning with Dynamic Auxiliary Constructions [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.03173)
+
 (30 Jul 2025) MoCHA: Advanced Vision-Language Reasoning with MoE Connector and Hierarchical Group Attention [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.22805)
 
 (28 Jul 2025) Learning Only with Images: Visual Reinforcement Learning with Reasoning, Rendering, and Visual Feedback [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.20766v1)
