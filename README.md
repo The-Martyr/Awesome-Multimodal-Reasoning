@@ -28,6 +28,10 @@ https://yuewen.cn/chats/new
 
 ### Image Reasoning
 
+(7 Aug 2025) Uni-cot: Towards Unified Chain-of-Thought Reasoning Across Text and Vision [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.05606)
+
+(7 Aug 2025) StructVRM: Aligning Multimodal Reasoning with Structured and Verifiable Reward Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.05383)
+
 (5 Aug 2025) Geoint-R1: Formalizing Multimodal Geometric Reasoning with Dynamic Auxiliary Constructions [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.03173)
 
 (30 Jul 2025) MoCHA: Advanced Vision-Language Reasoning with MoE Connector and Hierarchical Group Attention [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.22805)
