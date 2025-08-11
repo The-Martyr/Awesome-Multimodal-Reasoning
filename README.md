@@ -28,6 +28,8 @@ https://yuewen.cn/chats/new
 
 ### Image Reasoning
 
+(8 Aug 2025) SIFThinker: Spatially-Aware Image Focus for Visual Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.06259v1)
+
 (7 Aug 2025) Uni-cot: Towards Unified Chain-of-Thought Reasoning Across Text and Vision [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.05606)
 
 (7 Aug 2025) StructVRM: Aligning Multimodal Reasoning with Structured and Verifiable Reward Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.05383)
@@ -249,6 +251,10 @@ https://yuewen.cn/chats/new
 (23 Jan 2025) Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.13926)
 
 ### Bench/Dataset
+
+(8 Aug 2025) MathReal: We Keep It Real! A Real Scene Benchmark for Evaluating Math Reasoning in Multimodal Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.06009v1)
+
+(8 Aug 2025) InfoCausalQA:Can Models Perform Non-explicit Causal Reasoning Based on Infographic? [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.06220v1)
 
 (22 Jul 2025) ReasonVQA: A Multi-hop Reasoning Benchmark with Structural Knowledge for Visual Question Answering [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.16403v1)
 
