@@ -220,6 +220,8 @@ https://yuewen.cn/chats/new
 
 ### Image/Video Generation
 
+(9 Aug 2025) AR-GRPO: Training Autoregressive Image Generation Models via Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.06924v1)
+
 (28 Jul 2025) Multimodal LLMs as Customized Reward Models for Text-to-Image Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.21391v2)
 
 (20 Jun 2025) RealSR-R1: Reinforcement Learning for Real-World Image Super-Resolution with Vision-Language Chain-of-Thought [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.16796)
