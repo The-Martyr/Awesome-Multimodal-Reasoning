@@ -28,6 +28,14 @@ https://yuewen.cn/chats/new
 
 ### Image Reasoning
 
+(18 Aug 2025) M3PO: Multimodal-Model-Guided Preference Optimization for Visual Instruction Following [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.12458v1)
+
+(18 Aug 2025) Vision-G1: Towards General Vision Language Reasoning with Multi-Domain Data Curation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.12680v1)
+
+(18 Aug 2025) Ovis2.5 Technical Report [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.11737v1)
+
+(18 Aug 2025) MDPO: Overcoming the Training-Inference Divide of Masked Diffusion Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.13148v1)
+
 (8 Aug 2025) SIFThinker: Spatially-Aware Image Focus for Visual Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.06259v1)
 
 (7 Aug 2025) Uni-cot: Towards Unified Chain-of-Thought Reasoning Across Text and Vision [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.05606)
