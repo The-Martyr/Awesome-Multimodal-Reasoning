@@ -28,6 +28,8 @@ https://yuewen.cn/chats/new
 
 ### Image Reasoning
 
+(27 Aug 2025) Self-Rewarding Vision-Language Model via Reasoning Decomposition [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.19652v1)
+
 (18 Aug 2025) M3PO: Multimodal-Model-Guided Preference Optimization for Visual Instruction Following [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.12458v1)
 
 (18 Aug 2025) Vision-G1: Towards General Vision Language Reasoning with Multi-Domain Data Curation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.12680v1)
@@ -228,6 +230,14 @@ https://yuewen.cn/chats/new
 
 ### Image/Video Generation
 
+(28 Aug 2025) Inference-Time Alignment Control for Diffusion Models with Reinforcement Learning Guidance [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.21016v1)
+
+(28 Aug 2025) OneReward: Unified Mask-Guided Image Generation via Multi-Task Human Preference Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.21066v1)
+
+(28 Aug 2025) Pref-GRPO: Pairwise Preference Reward-based GRPO for Stable Text-to-Image Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.20751v1)
+
+(27 Aug 2025) CVBench: Evaluating Cross-Video Synergies for Complex Multimodal Understanding and Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.19542v1)
+
 (9 Aug 2025) AR-GRPO: Training Autoregressive Image Generation Models via Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.06924v1)
 
 (28 Jul 2025) Multimodal LLMs as Customized Reward Models for Text-to-Image Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.21391v2)
@@ -261,6 +271,8 @@ https://yuewen.cn/chats/new
 (23 Jan 2025) Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.13926)
 
 ### Bench/Dataset
+
+(27 Aug 2025) 11Plus-Bench: Demystifying Multimodal LLM Spatial Reasoning with Cognitive-Inspired Analysis [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.20068v1)
 
 (8 Aug 2025) MathReal: We Keep It Real! A Real Scene Benchmark for Evaluating Math Reasoning in Multimodal Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.06009v1)
 
