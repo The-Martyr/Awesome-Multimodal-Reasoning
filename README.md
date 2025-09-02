@@ -28,6 +28,8 @@ https://yuewen.cn/chats/new
 
 ### Image Reasoning
 
+(28 Aug 2025) R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs via Bi-Mode Annealing and Reinforce Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.21113v1)
+
 (27 Aug 2025) Self-Rewarding Vision-Language Model via Reasoning Decomposition [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.19652v1)
 
 (18 Aug 2025) M3PO: Multimodal-Model-Guided Preference Optimization for Visual Instruction Following [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.12458v1)
