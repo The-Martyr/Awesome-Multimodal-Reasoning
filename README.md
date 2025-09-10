@@ -28,6 +28,8 @@ https://yuewen.cn/chats/new
 
 ### Image Reasoning
 
+(9 Sep 2025) Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual Search [![arXiv](https://arxiv.org/abs/2509.07969v1)
+
 (28 Aug 2025) R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs via Bi-Mode Annealing and Reinforce Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.21113v1)
 
 (27 Aug 2025) Self-Rewarding Vision-Language Model via Reasoning Decomposition [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.19652v1)
@@ -273,6 +275,8 @@ https://yuewen.cn/chats/new
 (23 Jan 2025) Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.13926)
 
 ### Bench/Dataset
+
+(9 Sep 2025) Visual-TableQA: Open-Domain Benchmark for Reasoning over Table Images [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.07966v1)
 
 (27 Aug 2025) 11Plus-Bench: Demystifying Multimodal LLM Spatial Reasoning with Cognitive-Inspired Analysis [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.20068v1)
 
