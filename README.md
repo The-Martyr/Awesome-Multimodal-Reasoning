@@ -28,9 +28,11 @@ https://yuewen.cn/chats/new
 
 ### Image Reasoning
 
-(12 Sep 2025) LaV-CoT: Language-Aware Visual CoT with Multi-Aspect Reward Optimization for Real-World Multilingual VQA [![arXiv](https://arxiv.org/abs/2509.10026v1)
+(25 Sep 2025) MMR1: Enhancing Multimodal Reasoning with Variance-Aware Sampling and Open Resources [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.21268)
 
-(9 Sep 2025) Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual Search [![arXiv](https://arxiv.org/abs/2509.07969v1)
+(12 Sep 2025) LaV-CoT: Language-Aware Visual CoT with Multi-Aspect Reward Optimization for Real-World Multilingual VQA [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.10026v1)
+
+(9 Sep 2025) Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual Search [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.07969v1)
 
 (28 Aug 2025) R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs via Bi-Mode Annealing and Reinforce Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.21113v1)
 
