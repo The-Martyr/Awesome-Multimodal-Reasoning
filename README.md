@@ -22,11 +22,19 @@ This repo also select paper about visual generation (image generation/video gene
 
 (16 Mar 2025) Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.12605)
 
-### Api
-
-https://yuewen.cn/chats/new
-
 ### Image Reasoning
+
+(27 Sep 2025) Decoupling Reasoning and Perception: An LLM-LMM Framework for Faithful Visual Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.23322v1)
+
+(29 Sep 2025) Latent Visual Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.24251v1)
+
+(29 Sep 2025) GeoVLM-R1: Reinforcement Fine-Tuning for Improved Remote Sensing Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.25026v1)
+
+(28 Sep 2025) Poivre: Self-Refining Visual Pointing with Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.23746v1)
+
+(29 Sep 2025) VTPerception-R1: Enhancing Multimodal Reasoning via Explicit Visual and Textual Perceptual Grounding [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.24776v1)
+
+(29 Sep 2025) Euclid's Gift: Enhancing Spatial Perception and Reasoning in Vision-Language Models via Geometric Surrogate Tasks [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.24473v1)
 
 (25 Sep 2025) MMR1: Enhancing Multimodal Reasoning with Variance-Aware Sampling and Open Resources [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.21268)
 
@@ -198,6 +206,12 @@ https://yuewen.cn/chats/new
 
 ### Video
 
+(29 Sep 2025) FrameThinker: Learning to Think with Long Videos via Multi-Turn Frame Spotlighting [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.24304v1)
+
+(29 Sep 2025) LOVE-R1: Advancing Long Video Understanding with an Adaptive Zoom-in Mechanism via Multi-Step Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.24786v1)
+
+(28 Sep 2025) FrameMind: Frame-Interleaved Chain-of-Thought for Video Reasoning via Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.24008v1)
+
 (12 Jun 2025) CogStream: Context-guided Streaming Video Question Answering [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.10516v1)
 
 (6 Jun 2025) VideoChat-A1: Thinking with Long Videos by Chain-of-Shot Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.06097v1)
@@ -237,6 +251,8 @@ https://yuewen.cn/chats/new
 (14 Mar 2025) Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.11197)
 
 ### Image/Video Generation
+
+(29 Sep 2025) STAGE: Stable and Generalizable GRPO for Autoregressive Image Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.25027v1)
 
 (28 Aug 2025) Inference-Time Alignment Control for Diffusion Models with Reinforcement Learning Guidance [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.21016v1)
 
@@ -357,6 +373,8 @@ https://yuewen.cn/chats/new
 (18 May 2021) NExT-QA:Next Phase of Question-Answering to Explaining Temporal Actions [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2105.08276)
 
 ### Latent
+
+(29 Sep 2025) Latent Visual Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.24251v1)
 
 (12 Feb 2025) Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08482)
 
