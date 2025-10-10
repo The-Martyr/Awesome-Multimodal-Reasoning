@@ -24,6 +24,14 @@ This repo also select paper about visual generation (image generation/video gene
 
 ### Image Reasoning
 
+(9 Oct 2025) ARES: Multimodal Adaptive Reasoning via Difficulty-Aware Token-Level Entropy Shaping [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.08457v1)
+
+(9 Oct 2025) SpatialLadder: Progressive Training for Spatial Reasoning in Vision-Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.08531v1)
+
+(7 Oct 2025) Context Matters: Learning Global Semantics via Object-Centric Representation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.05674)
+
+(6 Oct 2025) Beyond Monolithic Rewards: A Hybrid and Multi-Aspect Reward Optimization for MLLM Alignment [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.05283)
+
 (27 Sep 2025) Decoupling Reasoning and Perception: An LLM-LMM Framework for Faithful Visual Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.23322v1)
 
 (29 Sep 2025) Latent Visual Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.24251v1)
@@ -206,6 +214,8 @@ This repo also select paper about visual generation (image generation/video gene
 
 ### Video
 
+(9 Oct 2025) SciVideoBench: Benchmarking Scientific Video Reasoning in Large Multimodal Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.08559v1)
+
 (29 Sep 2025) FrameThinker: Learning to Think with Long Videos via Multi-Turn Frame Spotlighting [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.24304v1)
 
 (29 Sep 2025) LOVE-R1: Advancing Long Video Understanding with an Adaptive Zoom-in Mechanism via Multi-Step Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.24786v1)
@@ -244,13 +254,27 @@ This repo also select paper about visual generation (image generation/video gene
 
 (8 Oct 2024) Temporal Reasoning Transfer from Text to Video. [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.06166)
 
+### DLLM
+
+(9 Oct 2025) Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.08554v1)
+
+(9 Oct 2025) Enhancing Reasoning for Diffusion LLMs via Distribution Matching Policy Optimization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.08233v1)
+
 ### Audio
+
+(8 Oct 2025) Can Speech LLMs Think while Listening? [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.07497v1)
 
 (22 Jul 2025) Step-Audio 2 Technical Report [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.16632v1)
 
 (14 Mar 2025) Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.11197)
 
 ### Image/Video Generation
+
+(9 Oct 2025) Beyond Textual CoT: Interleaved Text-Image Chains with Deep Confidence Reasoning for Image Editing [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.08157v1)
+
+(9 Oct 2025) Reinforcing Diffusion Models by Direct Group Preference Optimization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.08425v1)
+
+(9 Oct 2025) Real-Time Motion-Controllable Autoregressive Video Diffusion [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.08131v1)
 
 (29 Sep 2025) STAGE: Stable and Generalizable GRPO for Autoregressive Image Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.25027v1)
 
