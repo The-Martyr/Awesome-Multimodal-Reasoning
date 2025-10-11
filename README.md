@@ -32,6 +32,8 @@ This repo also select paper about visual generation (image generation/video gene
 
 (6 Oct 2025) Beyond Monolithic Rewards: A Hybrid and Multi-Aspect Reward Optimization for MLLM Alignment [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.05283)
 
+(3 Oct 2025) Efficient Test-Time Scaling for Small Vision-Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.03574)
+
 (27 Sep 2025) Decoupling Reasoning and Perception: An LLM-LMM Framework for Faithful Visual Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.23322v1)
 
 (29 Sep 2025) Latent Visual Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.24251v1)
@@ -216,6 +218,10 @@ This repo also select paper about visual generation (image generation/video gene
 
 (9 Oct 2025) SciVideoBench: Benchmarking Scientific Video Reasoning in Large Multimodal Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.08559v1)
 
+(6 Oct 202) Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.05034)
+
+(5 Oct 2025) Video-in-the-Loop: Span-Grounded Long Video QA with Interleaved Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.04022)
+
 (29 Sep 2025) FrameThinker: Learning to Think with Long Videos via Multi-Turn Frame Spotlighting [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.24304v1)
 
 (29 Sep 2025) LOVE-R1: Advancing Long Video Understanding with an Adaptive Zoom-in Mechanism via Multi-Step Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.24786v1)
@@ -263,6 +269,8 @@ This repo also select paper about visual generation (image generation/video gene
 ### Audio
 
 (8 Oct 2025) Can Speech LLMs Think while Listening? [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.07497v1)
+
+(5 Oct 2025) Principled and Tractable RL for Reasoning with Diffusion Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.04019)
 
 (22 Jul 2025) Step-Audio 2 Technical Report [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.16632v1)
 
