@@ -24,6 +24,8 @@ This repo also select paper about visual generation (image generation/video gene
 
 ### Image Reasoning
 
+(13 Oct 2025) CodePlot-CoT: Mathematical Visual Reasoning by Thinking with Code-Driven Images [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.11718)
+
 (9 Oct 2025) ARES: Multimodal Adaptive Reasoning via Difficulty-Aware Token-Level Entropy Shaping [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.08457v1)
 
 (9 Oct 2025) SpatialLadder: Progressive Training for Spatial Reasoning in Vision-Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.08531v1)
