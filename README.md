@@ -24,6 +24,14 @@ This repo also select paper about visual generation (image generation/video gene
 
 ### Image Reasoning
 
+()
+
+(10 Oct 2025) Unleashing Perception-Time Scaling to Multimodal Reasoning Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.08964)
+
+(10 Oct 2025) Spotlight on Token Perception for Multimodal Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.09285)
+
+(10 Oct 2025) Tiny-R1V: Lightweight Multimodal Unified Reasoning Model via Model Merging [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.08987)
+
 (13 Oct 2025) CodePlot-CoT: Mathematical Visual Reasoning by Thinking with Code-Driven Images [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.11718)
 
 (9 Oct 2025) ARES: Multimodal Adaptive Reasoning via Difficulty-Aware Token-Level Entropy Shaping [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.08457v1)
@@ -270,6 +278,8 @@ This repo also select paper about visual generation (image generation/video gene
 
 ### Audio
 
+(10 Oct 2025) Mind-Paced Speaking: A Dual-Brain Approach to Real-Time Reasoning in Spoken Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.09592)
+
 (8 Oct 2025) Can Speech LLMs Think while Listening? [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.07497v1)
 
 (5 Oct 2025) Principled and Tractable RL for Reasoning with Diffusion Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.04019)
@@ -329,6 +339,10 @@ This repo also select paper about visual generation (image generation/video gene
 (23 Jan 2025) Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.13926)
 
 ### Bench/Dataset
+
+(10 Oct 2025) BLINK-Twice: You see, but do you observe? A Reasoning Benchmark on Visual Perception [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.09361)
+
+(10 Oct 2025) SpaceVista: All-Scale Visual Spatial Reasoning from mm to km [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.09606)
 
 (9 Sep 2025) Visual-TableQA: Open-Domain Benchmark for Reasoning over Table Images [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.07966v1)
 
