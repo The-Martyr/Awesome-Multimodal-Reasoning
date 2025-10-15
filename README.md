@@ -24,7 +24,9 @@ This repo also select paper about visual generation (image generation/video gene
 
 ### Image Reasoning
 
-()
+(14 Oct 2025) HoneyBee: Data Recipes for Vision-Language Reasoners [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.12225)
+
+(14 Oct 2025) DeepMMSearch-R1: Empowering Multimodal LLMs in Multimodal Web Search [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.12801)
 
 (10 Oct 2025) Unleashing Perception-Time Scaling to Multimodal Reasoning Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.08964)
 
@@ -339,6 +341,8 @@ This repo also select paper about visual generation (image generation/video gene
 (23 Jan 2025) Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.13926)
 
 ### Bench/Dataset
+
+(14 Oct 2025) Beyond Seeing: Evaluating Multimodal LLMs on Tool-Enabled Image Perception, Transformation, and Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.12712)
 
 (10 Oct 2025) BLINK-Twice: You see, but do you observe? A Reasoning Benchmark on Visual Perception [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.09361)
 
