@@ -24,6 +24,8 @@ This repo also select paper about visual generation (image generation/video gene
 
 ### Image Reasoning
 
+(15 Oct 2025) Generative Universal Verifier as Multimodal Meta-Reasoner [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.13804v1)
+
 (14 Oct 2025) HoneyBee: Data Recipes for Vision-Language Reasoners [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.12225)
 
 (14 Oct 2025) DeepMMSearch-R1: Empowering Multimodal LLMs in Multimodal Web Search [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.12801)
@@ -292,6 +294,8 @@ This repo also select paper about visual generation (image generation/video gene
 
 ### Image/Video Generation
 
+(15 Oct 2025) Reinforcement Learning Meets Masked Generative Models: Mask-GRPO for Text-to-Image Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.13418v1)
+
 (9 Oct 2025) Beyond Textual CoT: Interleaved Text-Image Chains with Deep Confidence Reasoning for Image Editing [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.08157v1)
 
 (9 Oct 2025) Reinforcing Diffusion Models by Direct Group Preference Optimization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.08425v1)
@@ -341,6 +345,8 @@ This repo also select paper about visual generation (image generation/video gene
 (23 Jan 2025) Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.13926)
 
 ### Bench/Dataset
+
+(15 Oct 2025) Spatial-DISE: A Unified Benchmark for Evaluating Spatial Reasoning in Vision-Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.13394v1)
 
 (14 Oct 2025) Beyond Seeing: Evaluating Multimodal LLMs on Tool-Enabled Image Perception, Transformation, and Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.12712)
 
