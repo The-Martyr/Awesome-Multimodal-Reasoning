@@ -24,6 +24,8 @@ This repo also select paper about visual generation (image generation/video gene
 
 ### Image Reasoning
 
+(18 Oct 2025) RL makes MLLMs see better than SFT [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.16333)
+
 (16 Oct 2025) MathCanvas: Intrinsic Visual Chain-of-Thought for Multimodal Mathematical Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.14958v1)
 
 (15 Oct 2025) Generative Universal Verifier as Multimodal Meta-Reasoner [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.13804v1)
