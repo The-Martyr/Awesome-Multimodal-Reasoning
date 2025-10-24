@@ -24,6 +24,10 @@ This repo also select paper about visual generation (image generation/video gene
 
 ### Image Reasoning
 
+(23 Oct 2025) Metis-HOME: Hybrid Optimized Mixture-of-Experts for Multimodal Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.20519v1)
+
+(23 Oct 202) Small Drafts, Big Verdict: Information-Intensive Visual Reasoning via Speculation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.20812v1)
+
 (18 Oct 2025) RL makes MLLMs see better than SFT [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.16333)
 
 (16 Oct 2025) MathCanvas: Intrinsic Visual Chain-of-Thought for Multimodal Mathematical Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.14958v1)
@@ -233,6 +237,8 @@ This repo also select paper about visual generation (image generation/video gene
 (2 Feb 2023) Multimodal Chain-of-Thought Reasoning in Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.00923)
 
 ### Video
+
+(23 Oct 2025) Conan: Progressive Learning to Reason Like a Detective over Multi-Scale Visual Evidence [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.20470v1)
 
 (9 Oct 2025) SciVideoBench: Benchmarking Scientific Video Reasoning in Large Multimodal Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.08559v1)
 
