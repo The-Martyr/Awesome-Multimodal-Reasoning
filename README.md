@@ -292,6 +292,8 @@ This repo also select paper about visual generation (image generation/video gene
 
 ### Audio
 
+(23 Oct 2025) Incentivizing Consistent, Effective and Scalable Reasoning Capability in Audio LLMs via Reasoning Process Rewards [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.20867)
+
 (10 Oct 2025) Mind-Paced Speaking: A Dual-Brain Approach to Real-Time Reasoning in Spoken Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.09592)
 
 (8 Oct 2025) Can Speech LLMs Think while Listening? [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.07497v1)
@@ -303,6 +305,8 @@ This repo also select paper about visual generation (image generation/video gene
 (14 Mar 2025) Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.11197)
 
 ### Image/Video Generation
+
+(24 Oct 2025) Sample By Step, Optimize By Chunk: Chunk-Level GRPO For Text-to-Image Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.21583)
 
 (15 Oct 2025) Reinforcement Learning Meets Masked Generative Models: Mask-GRPO for Text-to-Image Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.13418v1)
 
