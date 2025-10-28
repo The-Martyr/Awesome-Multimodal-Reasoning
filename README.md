@@ -24,6 +24,8 @@ This repo also select paper about visual generation (image generation/video gene
 
 ### Image Reasoning
 
+(27 Oct 2025) VOLD: Reasoning Transfer from LLMs to Vision-Language Models via On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.23497)
+
 (23 Oct 2025) Metis-HOME: Hybrid Optimized Mixture-of-Experts for Multimodal Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.20519v1)
 
 (23 Oct 202) Small Drafts, Big Verdict: Information-Intensive Visual Reasoning via Speculation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.20812v1)
