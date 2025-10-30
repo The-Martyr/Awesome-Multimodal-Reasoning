@@ -24,6 +24,8 @@ This repo also select paper about visual generation (image generation/video gene
 
 ### Image Reasoning
 
+(29 Oct 2025) PairUni: Pairwise Training for Unified Multimodal Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.25682v1)
+
 (27 Oct 2025) VOLD: Reasoning Transfer from LLMs to Vision-Language Models via On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.23497)
 
 (23 Oct 2025) Metis-HOME: Hybrid Optimized Mixture-of-Experts for Multimodal Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.20519v1)
