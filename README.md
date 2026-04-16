@@ -1,12 +1,25 @@
 # Awesome-Multimodal-Reasoning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This is a repository for organizing papres related to Multimodal Reasoning in Multimodal Large Language Models (Image, Video).
+This is a repository for organizing papers related to Multimodal Reasoning in Multimodal Large Language Models (Image, Video).
 
 With the development of the visual (audio) capabilities and reasoning capabilities (RL powered) of multimodal large language models(MLLMs/LVLMs/LSLMs), researchers have high hopes for the multimodal reasoning capabilities of MLLM/LVLM/LSLM.
 
 This repo also select paper about visual generation (image generation/video generation) with RL/CoT.
 
+**This repository aims to cover ALL possibly relevant papers to support research surveys, not just selected best papers.** We believe comprehensive coverage is more valuable for researchers than a curated list.
+
 #### :star: If you find this list useful, welcome to star it!
+
+## Table of Contents
+- [Survey](#survey)
+- [Image Reasoning](#image-reasoning)
+- [Video](#video)
+- [DLLM](#dllm)
+- [Audio](#audio)
+- [Image/Video Generation](#imagevideo-generation)
+- [Bench/Dataset](#benchdataset)
+- [Latent](#latent)
+- [Open Source Project](#open-source-project)
 
 ## Paper List (Updating...)
 
