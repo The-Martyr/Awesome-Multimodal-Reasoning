@@ -37,6 +37,14 @@ This repo also select paper about visual generation (image generation/video gene
 
 ### Image Reasoning
 
+(01 May 2026) Structured Role-Aware Policy Optimization for Multimodal Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.07274)
+
+(01 May 2026) MIRL: Mutual Information-Guided Reinforcement Learning for Vision-Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.01520)
+
+(01 Apr 2026) Vero: An Open RL Recipe for General Visual Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.04917)
+
+(01 Apr 2026) Rethinking Reinforcement Fine-Tuning in LVLM: Convergence, Reward Decomposition, and Generalization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.19857)
+
 (13 Apr 2026) POINTS-Long: Adaptive Dual-Mode Visual Reasoning in MLLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.11627v1)
 
 (13 Apr 2026) CFMS: A Coarse-to-Fine Multimodal Synthesis Framework for Enhanced Tabular Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.10973v1)
@@ -703,6 +711,14 @@ This repo also select paper about visual generation (image generation/video gene
 
 ### Video
 
+(01 May 2026) AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in Unified Multimodal Models via Decompositional Verifiable Reward [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.12495)
+
+(01 Apr 2026) Decompose, Look, and Reason: Reinforced Latent Reasoning for VLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.07518)
+
+(01 Apr 2026) Visually-Guided Policy Optimization for Multimodal Reasoning - arXiv [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.09349)
+
+(01 Apr 2026) While Reinforcement Learning from Verifiable [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.01840)
+
 (13 Apr 2026) Script-a-Video: Deep Structured Audio-visual Captions via Factorized Streams and Relational Grounding [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.11244v2)
 
 (30 Mar 2026) SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.28730v1)
@@ -918,6 +934,10 @@ This repo also select paper about visual generation (image generation/video gene
 (23 Jan 2025) Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.13926)
 
 ### Bench/Dataset
+
+(01 Apr 2026) Faithful GRPO: Improving Visual Spatial Reasoning in Multimodal Language Models via Constrained Policy Optimization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.08476)
+
+(01 Apr 2026) S-GRPO: Unified Post-Training for Large Vision-Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.16557)
 
 (15 Apr 2026) Reward Design for Physical Reasoning in Vision-Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.13993v1)
 
