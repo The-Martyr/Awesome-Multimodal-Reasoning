@@ -971,6 +971,8 @@ This repo also select paper about visual generation (image generation/video gene
 
 (25 Mar 2026) NeuroVLM-Bench: Evaluation of Vision-Enabled Large Language Models for Clinical Reasoning in Neurological Disorders [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.24846v1)
 
+(25 Mar 2026) GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.24329)
+
 (23 Mar 2026) Do Multilingual VLMs Reason Equally? A Cross-Lingual Visual Reasoning Audit for Indian Languages [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.26742v1)
 
 (23 Mar 2026) Rethinking Visual Privacy: A Compositional Privacy Risk Framework for Severity Assessment with VLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.21573v1)
