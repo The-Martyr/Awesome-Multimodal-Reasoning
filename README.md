@@ -935,6 +935,8 @@ This repo also select paper about visual generation (image generation/video gene
 
 ### Bench/Dataset
 
+(23 Jul 2026) Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.21072)
+
 (01 Apr 2026) Faithful GRPO: Improving Visual Spatial Reasoning in Multimodal Language Models via Constrained Policy Optimization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.08476)
 
 (01 Apr 2026) S-GRPO: Unified Post-Training for Large Vision-Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.16557)
