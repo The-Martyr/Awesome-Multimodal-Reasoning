@@ -1111,6 +1111,8 @@ This repo also select paper about visual generation (image generation/video gene
 
 (8 Aug 2025) InfoCausalQA:Can Models Perform Non-explicit Causal Reasoning Based on Infographic? [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.06220v1)
 
+(25 Jul 2025) MMESGBench: Pioneering Multimodal Understanding and Complex Reasoning Benchmark for ESG Tasks [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.18932)
+
 (22 Jul 2025) ReasonVQA: A Multi-hop Reasoning Benchmark with Structural Knowledge for Visual Question Answering [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.16403v1)
 
 (22 Jul 2025) Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.16746v1)
