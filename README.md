@@ -809,6 +809,8 @@ This repo also select paper about visual generation (image generation/video gene
 
 ### DLLM
 
+(16 Jun 2026) Learning from the Self-future: On-policy Self-distillation for dLLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.18195) [code](https://github.com/xingzhejun/d-opsd-code)
+
 (07 Apr 2026) Thinking Diffusion: Penalize and Guide Visual-Grounded Reasoning in Diffusion Multimodal Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.05497v1)
 
 (23 Mar 2026) Tiny Inference-Time Scaling with Latent Verifiers [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.22492v2)
@@ -1240,6 +1242,5 @@ https://github.com/TideDra/lmm-r1
 https://github.com/tulerfeng/Video-R1
 
 https://github.com/Wang-Xiaodong1899/Open-R1-Video
-
 
 
