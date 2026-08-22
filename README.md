@@ -95,7 +95,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (19 Aug 2026) GRACE: Grounded Reasoning via Adapter Composition and Evidence-Aware Calibration for Educational Visual Question Answering [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.19355)
 
-(18 Aug 2026) REChart: Reasoning-Efficient Chart Editing with Large Reasoning Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.17414)
 
 
 
@@ -116,9 +115,7 @@ This repo also select paper about visual generation (image generation/video gene
 
 (17 Aug 2026) Planner-Conditioned Diffusion for Coordinated Multi-Agent Exploration [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.16229)
 
-(17 Aug 2026) GaussianDWM++: Language-Grounded 3D Gaussian Driving World Model for Unified Scene Understanding, Editing, and Multi-Modal Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.16234)
 
-(17 Aug 2026) PosterText: Towards Unified Visual Text Generation and Editing for E-commerce Poster [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.16289)
 
 
 
@@ -132,7 +129,6 @@ This repo also select paper about visual generation (image generation/video gene
 (17 Aug 2026) PROBE: Manipulation-Grounded Visual Question Answering with VLM Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.17129)
 
 
-(16 Aug 2026) Who Leads Now? Token-Level Modality Arbitration for Chart-to-Code Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.15510)
 
 
 (16 Aug 2026) SEER: Long-Context Reasoning via Selective Visual-Text Compression [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.15962)
@@ -251,7 +247,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (31 Jul 2026) Distill What RGB Can Recover: Privileged 3D Evidence for RGB-Only Vision-Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.00110)
 
-(30 Jul 2026) RefineSVG: Visual Feedback-Driven Reinforcement Learning for Image-to-SVG Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.27699)
 
 (30 Jul 2026) Can Vision-Language Models Reason about AI Edits in Images? [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.28464)
 
@@ -297,7 +292,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (16 Jul 2026) Stop Thinking, Start Looking: Efficient Post-Training for Multimodal Document Question Answering via Reasoning-Free Alignment [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.14682)
 
-(15 Jul 2026) ThinkBLOX: 3D Indoor Scene Generation with Progressive Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.13539)
 
 (15 Jul 2026) SIVA-RL: Sensitivity-Invariance Visual Alignment for Multimodal Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.13931)
 
@@ -425,7 +419,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (04 Jun 2026) TAPO: Tool-Aware Policy Optimization via Credit Transfer for Multimodal Search Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.05784)
 
-(04 Jun 2026) Global-Local Monte Carlo Tree Search in Vision-Language Models for Text-to-3D Indoor Scene Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.06002)
 
 (04 Jun 2026) Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.06476)
 
@@ -561,7 +554,6 @@ This repo also select paper about visual generation (image generation/video gene
 (27 Apr 2026) Agentic AI for Remote Sensing: Technical Challenges and Research Directions [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.24919)
 
 
-(26 Apr 2026) Identity-Decoupled Anonymization for Visual Evidence in Multi-modal Retrieval-Augmented Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.23584)
 
 (26 Apr 2026) EndoGov: A knowledge-governed multi-agent expert system for endometrial cancer risk stratification [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.23802)
 
@@ -1230,9 +1222,7 @@ This repo also select paper about visual generation (image generation/video gene
 
 ### Video
 
-(20 Aug 2026) VGI-BENCH: Probing Visual Intelligence in Video Generation Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.19583)
 
-(19 Aug 2026) VA-Judger: Reward Modeling from Human Preference Feedback for Joint Video-Audio Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.18607)
 
 (19 Aug 2026) StateTrace: An Object-Centric Framework for Hidden-State Spatiotemporal Reasoning in Long Videos [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.18532)
 
@@ -1251,7 +1241,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (17 Aug 2026) RISE: Roadside Infrastructure Sequence Understanding across 3D Tracking and Structured Vision-Language Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.16480)
 
-(17 Aug 2026) PersonaShot: Benchmarking Person-Centric Narrative Continuity in Multi-Shot Video Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.16717)
 
 (17 Aug 2026) CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated? [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.16829)
 
@@ -1298,9 +1287,7 @@ This repo also select paper about visual generation (image generation/video gene
 
 (03 Aug 2026) AdaThinkV: Adaptive Thinking for Token-Efficient Video Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.01980)
 
-(02 Aug 2026) PeCA: Palette Context Assisted Inference for Test-Time Paint-Bucket Colourisation on Animation Videos [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.00903)
 
-(02 Aug 2026) CoT-Edit: Let CoT Guide Instruction Video Editing [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.01113)
 
 (02 Aug 2026) MiniWorld: Democratizing the Training of Video World Models from Scratch [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.01127)
 
@@ -1320,7 +1307,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (06 Jul 2026) Claim-Level Rubric Rewards for Video Caption Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.05150)
 
-(04 Jul 2026) Reward Lightning: Fast Video Generation via Homologous Preference Distillation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.03960)
 
 (03 Jul 2026) VideoSearcher: Empowering Video Deep Research with Multi-Tool Agentic Reasoning via Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.02927)
 
@@ -1346,7 +1332,6 @@ This repo also select paper about visual generation (image generation/video gene
 (16 Jun 2026) Reasoning as Intersection: Consensus-Frame Alignment for Visual Focus in Video-MLLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.18441)
 
 
-(11 Jun 2026) ReFree: Towards Realistic Co-Speech Video Generation via Reward-Free RL and Multilevel Speech Guidance [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.13304)
 
 
 (10 Jun 2026) AVIS: Adaptive Test-Time Scaling for Vision-Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.11576)
@@ -1361,7 +1346,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (08 Jun 2026) CapRL++: Unified Reinforcement Learning with Verifiable Rewards for Dense Image and Video Captioning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.09393)
 
-(07 Jun 2026) SMC-ITA: Sequential Monte Carlo Inference-Time Alignment for Video-to-Audio Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.08393)
 
 (07 Jun 2026) CACR:Reinforcing Temporal Answer Grounding in Instructional Video via Candidate-Aware Causal Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.08436)
 
@@ -1401,7 +1385,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (12 May 2026) CaC: Advancing Video Reward Models via Hierarchical Spatiotemporal Concentrating [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.11723)
 
-(12 May 2026) OmniNFT: Modality-wise Omni Diffusion Reinforcement for Joint Audio-Video Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.12480)
 
 (11 May 2026) GridProbe: Posterior-Probing for Adaptive Test-Time Compute in Long-Video VLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.10762)
 
@@ -1420,7 +1403,6 @@ This repo also select paper about visual generation (image generation/video gene
 (06 May 2026) Reward-Decomposed Reinforcement Learning for Immersive Video Role-Playing [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.04733)
 
 
-(05 May 2026) Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.03849)
 
 (03 May 2026) Act2See: Emergent Active Visual Perception for Video Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.01657)
 
@@ -1440,18 +1422,14 @@ This repo also select paper about visual generation (image generation/video gene
 
 (28 Apr 2026) OmniVTG: A Large-Scale Dataset and Training Paradigm for Open-World Video Temporal Grounding [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.25276)
 
-(28 Apr 2026) A Systematic Post-Train Framework for Video Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.25427)
 
 
 (28 Apr 2026) MarkIt: Training-Free Visual Markers for Precise Video Temporal Grounding [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.25886)
 
 (28 Apr 2026) Benchmarking and Improving GUI Agents in High-Dynamic Environments [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.25380)
 
-(27 Apr 2026) World-R1: Reinforcing 3D Constraints for Text-to-Video Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.24764)
 
-(27 Apr 2026) Co-Director: Agentic Generative Video Storytelling [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.24842)
 
-(26 Apr 2026) Hallo-Live: Real-Time Streaming Joint Audio-Video Avatar Generation with Asynchronous Dual-Stream and Human-Centric Preference Distillation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.23632)
 
 (26 Apr 2026) Zoom In, Reason Out: Efficient Far-field Anomaly Detection in Expressway Surveillance Videos via Focused VLM Reasoning Guided by Bayesian Inference [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.23724)
 
@@ -1627,13 +1605,10 @@ This repo also select paper about visual generation (image generation/video gene
 
 (16 Aug 2026) VARM-Bench: Benchmarking Verifiable Structured Reasoning in Chinese Abusive Speech Moderation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.15600)
 
-(15 Aug 2026) FMReward: Aligning and Evaluating Audio-Driven 3D Facial Animation with Human Preferences [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.15296)
 
-(04 Aug 2026) DDSynth-RL: Audio Synthesizer Inversion via Discrete Diffusion with Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.03032)
 
 (04 Aug 2026) Towards More Expressive Spoken LLMs: Fine-Grained Intent Benchmarking and Acoustic-Lexical Decoupled Policy Optimization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.03054)
 
-(04 Aug 2026) GROW: Group-Relative Advantage-Weighted On-Policy Reinforcement Learning of Autoregressive-Diffusion Text-to-Speech model [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.03215)
 
 (03 Aug 2026) Reinforcement Learning with Evolving Rubrics as Rewards for Audio Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.02831)
 
@@ -1651,24 +1626,20 @@ This repo also select paper about visual generation (image generation/video gene
 
 (24 Jun 2026) Omni-Perception Policy Optimization for Multimodal Emotion Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.25325)
 
-(22 Jun 2026) FlowTTS-GRPO: Online Reinforcement Learning with Multi-Objective Reward Optimization for Flow-Matching Based Text-to-Speech [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.23190)
 
 (19 Jun 2026) Post-Training Speech Enhancement Language Models with Perceptual Rewards [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.21458)
 
 
 (17 Jun 2026) ThinkDeception: A Progressive Reinforcement Learning Framework for Interpretable Multimodal Deception Detection [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.18988)
 
-(16 Jun 2026) Reliable Neural-Codec Text-to-Speech by ASR Self-Verification and Distillation: Near-Zero Catastrophic Failures Across Models and Codecs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.18323)
 
 (14 Jun 2026) AP-GRPO: Anchor-Gated Phonetic Alignment with Policy Optimization for Pathological Speech Reconstruction [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.15540)
 
 (05 Jun 2026) Beyond Semantic Dominance: Cognitive Affective Reasoning and Empathetic Response Alignment in Audio Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.06940)
 
-(04 Jun 2026) GLASS: GRPO-Trained LoRA for Acoustic Style Steering in Zero-Shot Text-to-Speech [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.05889)
 
 (03 Jun 2026) Entity Binding Failures in Speech LLM Reasoning: Diagnosis and Chain-of-Thought Intervention [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.04474)
 
-(20 May 2026) Thinking-while-speaking: A Controlled, Interleaved Reasoning Method for Real-Time Speech Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.20946)
 
 (11 May 2026) Separate First, Fuse Later: Mitigating Cross-Modal Interference in Audio-Visual LLMs Reasoning with Modality-Specific Chain-of-Thought [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.09906)
 
@@ -1701,34 +1672,24 @@ This repo also select paper about visual generation (image generation/video gene
 
 ### Image/Video Generation
 
-(20 Aug 2026) DARS: Dual-Level Credit Assignment RL with Structured Reasoning for Instruction-Based Image Editing [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.20161)
 
-(20 Aug 2026) Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.20334)
 
 (17 Aug 2026) Defake-o3: From Speculative Rationales to Verifiable Evidence for Explainable AIGI Detection [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.16259)
 
-(17 Aug 2026) GenRouter: Unified Workflow Routing for Agentic Image Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.16721)
 
-(17 Aug 2026) TransAnyText: Translating Arbitrary Text in E-commerce Images via Structured Visual Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.16284)
 
-(10 Aug 2026) RL-Native Distillation: Exploiting Scored Trajectories for Few-Step Image Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.09226)
 
-(05 Aug 2026) ToolArtist: Tool-Using Unified Multimodal Models for Agentic Image Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.04436)
 
 (05 Aug 2026) GeoReward: Mitigating Contextual Variable Overestimation in Vision-Language Models for Cross-Market Preference Prediction [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.04504)
 
 
-(31 Jul 2026) Evaluation-Verification Reward for Consistent Multi-Reference Image Editing [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.29025)
 
 (29 Jul 2026) Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.27113)
 
-(21 Jul 2026) ExpertVerse: A General-Purpose Benchmark for Expert-Level Reasoning in Knowledge-Intensive Visual Synthesis [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.19341)
 
 (20 Jul 2026) JAGG: Jacobian-Aggregated Group Gradient for Efficient GRPO Training of Diffusion Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.17572)
 
-(17 Jul 2026) Debiasing Text-to-Image Evaluation via Implicit Cultural Alignment Reward Modeling [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.15740)
 
-(13 Jul 2026) Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.11886)
 
 (05 Jul 2026) Flash-BoN: Instant Drafts for Inference-Time Scaling in Diffusion Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.04461)
 
@@ -1736,15 +1697,10 @@ This repo also select paper about visual generation (image generation/video gene
 
 (03 Jul 2026) ProLaViT: Learning Progressive Latent Visual Thoughts in Structured Latent Space [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.02907)
 
-(02 Jul 2026) COMFYCLAW: Self-Evolving Skill Harnesses for Image Generation Workflows [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.01709)
 
-(23 Jun 2026) IV-CoT: Implicit Visual Chain-of-Thought for Structure-Aware Text-to-Image Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.24849)
 
-(22 Jun 2026) DiT-Reward: Generative Representations for Text-to-Image Reward Modeling [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.23626)
 
-(19 Jun 2026) A Test-time Actor-Critic Approach to News Images Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.21304)
 
-(19 Jun 2026) Balancing Performance and Diversity in GRPO Autoregressive Text-to-Image Post-Training [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.21498)
 
 (15 Jun 2026) Multi-Turn Reflective Masking Elicits Reasoning in Mask Diffusion Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.16700)
 
@@ -1752,41 +1708,30 @@ This repo also select paper about visual generation (image generation/video gene
 
 (11 Jun 2026) Efficient Reinforcement for Visual-Textual Thinking with Discrete Diffusion Model [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.14792)
 
-(01 Jun 2026) OctoT2I: A Self-Evolving Agentic Text-to-Image Router [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.01803)
 
-(01 Jun 2026) MT-EditFlow: Reinforcement Learning for Multi-Turn Image Editing with Flow Matching [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.01985)
 
 (01 Jun 2026) Adversarial Style Optimization: Enhancing VLM Jailbreaks by GRPO-based Stylistic Triggers Optimization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.21619)
 
 (19 May 2026) Inference-Time Scaling in Diffusion Models through Iterative Partial Refinement [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.19317)
 
-(19 May 2026) Benchmarking and Evolving Reason-Reflect-Rectify for Reflective Visual Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.19639)
 
-(18 May 2026) Curriculum Group Policy Optimization: Adaptive Sampling for Unleashing the Potential of Text-to-Image Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.17807)
 
-(18 May 2026) Generation Navigator: A State-Aware Agentic Framework for Image Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.17969)
 
-(17 May 2026) AutoRubric-T2I: Robust Rule-Based Reward Model for Text-to-Image Alignment [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.17602)
 
 (16 May 2026) Sketch Then Paint: Hierarchical Reinforcement Learning for Diffusion Multi-Modal Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.16842)
 
-(16 May 2026) Edit-GRPO: A Locality-Preserving Policy Optimization Framework for Image Editing [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.16951)
 
 (16 May 2026) TILT: Improving Compositional Generation in Diffusion Models with a Model-Intrinsic Reward [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.21606)
 
-(14 May 2026) Unlocking Complex Visual Generation via Closed-Loop Verified Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.14876)
 
 (14 May 2026) DiffusionOPD: A Unified Perspective of On-Policy Distillation in Diffusion Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.15055)
 
-(13 May 2026) Edit-Compass & EditReward-Compass: A Unified Benchmark for Image Editing and Reward Modeling [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.13062)
 
 (11 May 2026) Reinforce Adjoint Matching: Scaling RL Post-Training of Diffusion and Flow-Matching Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.10759)
 
-(11 May 2026) Power Reinforcement Post-Training of Text-to-Image Models with Super-Linear Advantage Shaping [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.10937)
 
 (10 May 2026) SeePhys Pro: Diagnosing Modality Transfer and Blind-Training Effects in Multimodal RLVR for Physics Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.09266)
 
-(08 May 2026) ReasonEdit: Towards Interpretable Image Editing Evaluation via Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.07477)
 
 (08 May 2026) Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generative Criteria [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.08354)
 
@@ -1794,15 +1739,11 @@ This repo also select paper about visual generation (image generation/video gene
 
 (07 May 2026) Continuous-Time Distribution Matching for Few-Step Diffusion Distillation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.06376)
 
-(30 Apr 2026) Leveraging Verifier-Based Reinforcement Learning in Image Editing [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.27505)
 
-(30 Apr 2026) Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.28185)
 
-(28 Apr 2026) DDA-Thinker: Decoupled Dual-Atomic Reinforcement Learning for Reasoning-Driven Image Editing [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.25477)
 
 (28 Apr 2026) The Thinking Pixel: Recursive Sparse Reasoning in Multimodal Diffusion Latents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.25299)
 
-(27 Apr 2026) Meta-CoT: Enhancing Granularity and Generalization in Image Editing [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.24625)
 
 (26 Apr 2026) ZID-Net: Zero-Inference Diffusion Prior Decoupling Network for Single Image Dehazing [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.23709)
 
