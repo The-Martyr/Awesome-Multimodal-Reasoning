@@ -67,13 +67,11 @@ This repo also select paper about visual generation (image generation/video gene
 
 (20 Aug 2026) Question-Guided Evidence Acquisition for Multimodal Visual Question Answering [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.19739)
 
-(20 Aug 2026) Towards general embodied intelligence: integrating large language models, knowledge bases, and reasoning capabilities to build the next generation of AI agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.19794)
 
 (20 Aug 2026) Answer-Level Trust Selection for Physical Vision-Language Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.19807)
 
 (20 Aug 2026) Towards Clinically Faithful Medical Image Captioning via Enhanced Vision-Language Alignment [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.19825)
 
-(20 Aug 2026) EXIMO: VLM Guided Exploration of VLA Policies [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.19891)
 
 (20 Aug 2026) G-MARK: Grounded Multi-Agent Reasoning for Cooperative Driving via Knowledge Graphs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.19964)
 
@@ -99,9 +97,7 @@ This repo also select paper about visual generation (image generation/video gene
 
 (18 Aug 2026) REChart: Reasoning-Efficient Chart Editing with Large Reasoning Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.17414)
 
-(18 Aug 2026) Prism-GRPO: Faster VLA Policy Optimization via Splitting Same-outcome Groups [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.17423)
 
-(18 Aug 2026) Embodied-Navigator: Point, Think, Memorize, and Align for Efficient Navigation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.17512)
 
 (18 Aug 2026) Co-RL: Unsupervised Reasoning Emerges from Diverse Cohort in Multi-agent RL [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.17253)
 
@@ -115,7 +111,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (17 Aug 2026) Interactive Whole Slide Images for RL-based Tumour Segmentation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.16607)
 
-(17 Aug 2026) Inference-Time Attention Steering for Vision-Language-Action Driving Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.17095)
 
 (17 Aug 2026) Q-Learning With World Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.17163)
 
@@ -125,27 +120,20 @@ This repo also select paper about visual generation (image generation/video gene
 
 (17 Aug 2026) PosterText: Towards Unified Visual Text Generation and Editing for E-commerce Poster [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.16289)
 
-(17 Aug 2026) $τ_0$-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.16885)
 
-(17 Aug 2026) Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.16889)
 
 (17 Aug 2026) FetchMan: Learning Visual Humanoid Loco-Manipulation Policies from Simulated Experiences [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.17027)
 
 (17 Aug 2026) Lymphocyte Mimicry Correction via Region-Level Tissue Reasoning and Unbalanced Optimal Transport [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.17151)
 
-(17 Aug 2026) HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.16837)
 
-(17 Aug 2026) US-VLA: An Ultrasound Vision-Language-Action Model for Embodied Abdomina [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.16074)
 
-(17 Aug 2026) Neurosymbolic Embodied Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.16794)
 
 (17 Aug 2026) PROBE: Manipulation-Grounded Visual Question Answering with VLM Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.17129)
 
-(16 Aug 2026) Robo-Dopamine 2.0: History-Conditioned and OOD-Aware Process Reward Modeling for Robotic Manipulation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.15680)
 
 (16 Aug 2026) Who Leads Now? Token-Level Modality Arbitration for Chart-to-Code Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.15510)
 
-(16 Aug 2026) MistyPilot: Enabling Social-Robot Control through Multi-Agent LLM Skill Orchestration [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.15549)
 
 (16 Aug 2026) SEER: Long-Context Reasoning via Selective Visual-Text Compression [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.15962)
 
@@ -157,7 +145,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (15 Aug 2026) Physiological World Models for Human State Transitions [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.15309)
 
-(15 Aug 2026) FloodReasonBench: Benchmarking VLM Reasoning Segmentation for Embodied Flood Response at the Edge [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.15410)
 
 (15 Aug 2026) ETHOS: Towards a Modular Ethics Framework for Clinical Multi-Agent Systems [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.15424)
 
@@ -167,9 +154,7 @@ This repo also select paper about visual generation (image generation/video gene
 
 (14 Aug 2026) Test-Time Instance Selection for Improved Whole Slide Image Analysis [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.14759)
 
-(14 Aug 2026) Imagining Recovery: Inference-Time Counterfactual Realignment for Vision-Language-Action Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.14822)
 
-(14 Aug 2026) Evolve Vision-Language-Action Model into an Agent with On-the-fly Tool-use [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.14047)
 
 (14 Aug 2026) SPARGen: Unifying Spatial Perception and Reasoning through Native Multimodal Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.14138)
 
@@ -177,7 +162,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (13 Aug 2026) Beyond Correctness: Benchmarking and Aligning Response Behaviors in Hybrid-Thinking MLLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.12781)
 
-(13 Aug 2026) Temporal GRPO: Beyond Trajectory-Level Credit in Vision-Language-Action Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.13026)
 
 (13 Aug 2026) LongEarth-R1: Benchmarking and Aligning Vision-Language Models for Long-Horizon Earth Observation Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.13344)
 
@@ -185,7 +169,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (11 Aug 2026) MIRA: Medical Image Reflection for Agentic Diagnosis [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.10827)
 
-(11 Aug 2026) XCoT-VLA: Executable Chain-of-Thought for Vision-Language-Action Driving [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.10976)
 
 (11 Aug 2026) ThinkAfford: Affordance-Centric Reasoning for Fine-Grained 3D Grounding in Cluttered Scenes [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.10981)
 
@@ -214,6 +197,8 @@ This repo also select paper about visual generation (image generation/video gene
 (06 Aug 2026) The Next Screenshot Knows: Gated Hindsight Distillation for Mobile GUI Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.06065)
 
 (06 Aug 2026) WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.06474)
+
+(06 Aug 2026) AppDeltaWorld: Transition-Grounded Delta Code World Model for Mobile GUI Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.05891)
 
 (05 Aug 2026) Teaching MLLMs to Say No: Generalized Referring Expression Comprehension via Refusal Calibrated GRPO [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.04698)
 
@@ -253,7 +238,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (03 Aug 2026) CURV: Enhancing Chart Understanding Through Curriculum Visual Grounded Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.02833)
 
-(02 Aug 2026) RL Bootstrapping of OpenVLA-OFT for a Novel Robot Embodiment [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.01013)
 
 (02 Aug 2026) It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.01207)
 
@@ -273,9 +257,7 @@ This repo also select paper about visual generation (image generation/video gene
 
 (29 Jul 2026) FAS-R1: A Unified Multi-Task MLLM for Reasoning Face Anti-Spoofing [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.26432)
 
-(29 Jul 2026) RL$^2$-VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for Vision-Language-Action Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.26991)
 
-(28 Jul 2026) CoTinyVLA: Chain-of-Thought Distillation for a Sub-Billion-Parameter Vision-Language-Action Model [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.25487)
 
 (28 Jul 2026) ODYSSE: Episode-wise Policy Optimization for Personalized Agentic Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.25369)
 
@@ -331,7 +313,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (14 Jul 2026) Visual Access Boundaries in Vision-Language Model Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.12815)
 
-(14 Jul 2026) DenseReward: Dense Reward Learning via Failure Synthesis for Robotic Manipulation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.13033)
 
 (13 Jul 2026) SVR-R1: Bootstrapping Multi-modal Reasoning with Self-verification in Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.10966)
 
@@ -349,7 +330,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (07 Jul 2026) EvoCUA-1.5: Online Reinforcement Learning for Multi-turn Computer-Use Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.09773)
 
-(06 Jul 2026) Do Vision-Language-Action Models Mean What They Say? On the Role of Faithfulness in Embodied Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.04681)
 
 (05 Jul 2026) RL Forgets! Towards Continual Policy Optimization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.04364)
 
@@ -363,7 +343,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (01 Jul 2026) Perceive-to-Reason: Decoupling Perception and Reasoning for Fine-Grained Visual Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.01191)
 
-(01 Jul 2026) Overthink-Triggered Slowdown Attacks on LVLM-Based Robotic Systems [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.01518)
 
 (01 Jul 2026) Selective Test-Time Debiasing for CLIP via Reward Gating [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.00423)
 
@@ -383,7 +362,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (22 Jun 2026) CFPO: Counterfactual Policy Optimization for Multimodal Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.23206)
 
-(22 Jun 2026) BiliVLA: Scene-Aware Vision-Language-Action Model with Reinforcement Learning for Autonomous Biliary Endoscopic Navigation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.23531)
 
 (22 Jun 2026) VeriEvol: Scaling Multimodal Mathematical Reasoning via Verifiable Evol-Instruct [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.23543)
 
@@ -396,7 +374,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (18 Jun 2026) SPOT-E: Test-Time Entropy Shaping with Visual Spotlights for Frozen VLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.20244)
 
-(17 Jun 2026) Object-Centric Residual RL for Zero-Shot Sim-to-Real VLA Enhancement [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.18953)
 
 (16 Jun 2026) Enhancing Pathological VLMs with Cross-scale Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.17412)
 
@@ -418,7 +395,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (13 Jun 2026) Reinforcement Learning-Guided Retrieval with Soft Fusion for Robust Multimodal Imitation Learning under Missing Modalities [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.15514)
 
-(12 Jun 2026) RT-VLA: Real-Time Vision-Language-Action Models via Knowledge Distillation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.14010)
 
 (12 Jun 2026) CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.14691)
 
@@ -428,24 +404,22 @@ This repo also select paper about visual generation (image generation/video gene
 
 (10 Jun 2026) MODF-SIR: A Multi-agent Omni-modal Distilled Framework for Social Intelligence Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.12018)
 
-(10 Jun 2026) DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners? [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.12402)
 
-(09 Jun 2026) SARM2: Multi-Task Stage Aware Reward Modeling for Self Improving Robotic Manipulation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.10305)
 
 (09 Jun 2026) Self-Distillation Policy Optimization via Visual Feedback: Bridging Code and Visual Artifacts [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.10334)
 
-(09 Jun 2026) Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.11324)
 
 (08 Jun 2026) CRANE: Knowledge Editing for Reasoning MLLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.09033)
 
 (08 Jun 2026) Stabilizing On-Policy Distillation for MLLM Reasoning with Global Normalization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.09091)
 
-(06 Jun 2026) Q-VGM: Q-Value-Gradient Matching for Off-Policy Reinforcement Learning of Flow-Matching VLA [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.08015)
 
 (06 Jun 2026) DyCo-RL: Dynamic Cross-Modal Coordination for Visual Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.08035)
 
 (05 Jun 2026) Teaching the Way, Not the Answer: Privileged Tutoring Distillation for Multimodal Policy Optimization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.07000)
 
+
+(05 Jun 2026) StainFlow: Entity-Stain Tracking and Evidence Linking for Process Rewards in GUI Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.07027)
 
 (04 Jun 2026) AsyncWebRL: Efficient Asynchronous Reinforcement Learning for Multi-Step Visual Web Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.05597)
 
@@ -459,7 +433,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (03 Jun 2026) Food-R1: A Unified Multi-Task Food Vision-Language Model with Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.04986)
 
-(02 Jun 2026) Revisiting Embodied Chain-of-Thought for Generalizable Robot Manipulation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.03784)
 
 (02 Jun 2026) Entropy Is Not Enough: Unlocking Effective Reinforcement Learning for Visual Reasoning via Vision-Anchored Token Selection [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.03937)
 
@@ -469,11 +442,8 @@ This repo also select paper about visual generation (image generation/video gene
 
 (01 Jun 2026) OpenWebRL: Demystifying Online Multi-turn Reinforcement Learning for Visual Web Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.02031)
 
-(01 Jun 2026) Towards Precise Intent-Aligned VLA Aerial Navigation via Expert-Guided GRPO [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.02313)
 
-(19 May 2026) Rethinking Muon Beyond Pretraining: Spectral Failures and High-Pass Remedies for VLA and RLVR [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.19282)
 
-(19 May 2026) PAPO-VLA: Planning-Aware Policy Optimization for Vision-Language-Action Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.19580)
 
 (19 May 2026) ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.20176)
 
@@ -481,7 +451,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (19 May 2026) JUDO: A Juxtaposed Domain-Oriented Multimodal Reasoner for Industrial Anomaly QA [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.20284)
 
-(18 May 2026) WorldArena 2.0: Extending Embodied World Model Benchmarking on Modality, Functionality and Platform [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.17912)
 
 (18 May 2026) AtlasVA: Self-Evolving Visual Skill Memory for Teacher-Free VLM Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.17933)
 
@@ -495,9 +464,7 @@ This repo also select paper about visual generation (image generation/video gene
 
 (16 May 2026) HEED: Density-Weighted Residual Alignment for Hybrid Vision-Language Model Distillation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.17093)
 
-(15 May 2026) Learn Where Outcomes Diverge: Efficient VLA RL via Probabilistic Chunk Masking [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.16154)
 
-(15 May 2026) Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.16241)
 
 (14 May 2026) Think When Needed: Adaptive Reasoning-Driven Multimodal Embeddings with a Dual-LoRA Architecture [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.14448)
 
@@ -511,7 +478,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (12 May 2026) OmniThoughtVis: A Scalable Distillation Pipeline for Deployable Multimodal Reasoning Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.11629)
 
-(12 May 2026) Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.12620)
 
 
 (12 May 2026) Composition of Memory Experts for Diffusion World Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.18813)
@@ -536,8 +502,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (08 May 2026) GazeVLM: Active Vision via Internal Attention Control for Multimodal Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.07817)
 
-(05 May 2026) GRPO-TTA: Test-Time Visual Tuning for Vision-Language Models via GRPO-Driven Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.03403)
-
 (05 May 2026) What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.03782)
 
 (04 May 2026) Enhancing Multimodal In-Context Learning via Inductive-Deductive Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.02378)
@@ -550,8 +514,9 @@ This repo also select paper about visual generation (image generation/video gene
 
 (01 May 2026) MIRL: Mutual Information-Guided Reinforcement Learning for Vision-Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.01520)
 
-(01 May 2026) Thinking in Text and Images: Interleaved Vision--Language Reasoning Traces for Long-Horizon Robot Manipulation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.00438)
 
+
+(01 May 2026) Learn where to Click from Yourself: On-Policy Self-Distillation for GUI Grounding [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.00642)
 
 (30 Apr 2026) VeraRetouch: A Lightweight Fully Differentiable Framework for Multi-Task Reasoning Photo Retouching [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.27375)
 
@@ -570,13 +535,14 @@ This repo also select paper about visual generation (image generation/video gene
 
 (30 Apr 2026) The Effects of Visual Priming on Cooperative Behavior in Vision-Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.27953)
 
+(30 Apr 2026) GUI Agents with Reinforcement Learning: Toward Digital Inhabitants [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.27955)
+
 (29 Apr 2026) World2VLM: Distilling World Model Imagination into VLMs for Dynamic Spatial Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.26934)
 
 (29 Apr 2026) Beyond Shortcuts: Mitigating Visual Illusions in Frozen VLMs via Qualitative Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.26250)
 
 (29 Apr 2026) Multiple Consistent 2D-3D Mappings for Robust Zero-Shot 3D Visual Grounding [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.26261)
 
-(28 Apr 2026) Robot Planning and Situation Handling with Active Perception [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.26988)
 
 (28 Apr 2026) Instruction-Evidence Contrastive Dual-Stream Decoding for Grounded Vision-Language Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.25809)
 
@@ -591,7 +557,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (27 Apr 2026) VLM-VPI: A Vision-Language Reasoning Framework for Improving Automated Vehicle-Pedestrian Interactions [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.23934)
 
-(27 Apr 2026) AsyncShield: A Plug-and-Play Edge Adapter for Asynchronous Cloud-based VLA Navigation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.24086)
 
 (27 Apr 2026) Agentic AI for Remote Sensing: Technical Challenges and Research Directions [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.24919)
 
@@ -1305,7 +1270,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (14 Aug 2026) OccPlanner: Goal-Aware Occupancy-Conditioned Diffusion Planner for Pixel-Goal Navigation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.14160)
 
-(14 Aug 2026) SSP: An Event-Matched Syn2Sim2Phy Cross-Domain Evaluation Framework for Autonomous Driving VLA Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.14024)
 
 (14 Aug 2026) InstructVVT: Instruction-Driven Video Virtual Try-On without Auxiliary Spatial Priors [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.14070)
 
@@ -1317,7 +1281,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (10 Aug 2026) Listen, See and Track: Spatio-Temporal Audio-Visual Sound Event Reasoning for Omni-Modal Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.09435)
 
-(09 Aug 2026) TrustRoboReward: Preference-Ordered Isotonic Score Editing for Multi-Paradigm Robot Reward Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.08491)
 
 (08 Aug 2026) SCOUT: Self-Checking and Recovery-Aware Tool-Thought Agents for Ultra-Long Egocentric Video Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.07959)
 
@@ -1382,7 +1345,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (16 Jun 2026) Reasoning as Intersection: Consensus-Frame Alignment for Visual Focus in Video-MLLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.18441)
 
-(15 Jun 2026) SafeDojo: Safe Reinforcement Learning for VLA via Interactive World Model [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.20698)
 
 (11 Jun 2026) ReFree: Towards Realistic Co-Speech Video Generation via Reward-Free RL and Multilevel Speech Guidance [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.13304)
 
@@ -1423,13 +1385,11 @@ This repo also select paper about visual generation (image generation/video gene
 
 (18 May 2026) Self-Evolving Spatial Reasoning in Vision Language Models via Geometric Logic Consistency [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.18162)
 
-(18 May 2026) Seeing Together: Multi-Robot Cooperative Egocentric Spatial Reasoning with Multimodal Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.18431)
 
 (16 May 2026) OmniVL-Guard Pro: A Tool-Augmented Agent for Omnibus Vision-Language Forensics [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.16962)
 
 (15 May 2026) Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.15980)
 
-(14 May 2026) CreFlow: Corrective Reflow for Sparse-Reward Embodied Video Diffusion RL [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.14274)
 
 (14 May 2026) KVPO: ODE-Native GRPO for Autoregressive Video Alignment via KV Semantic Exploration [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.14278)
 
@@ -1459,7 +1419,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (06 May 2026) Reward-Decomposed Reinforcement Learning for Immersive Video Role-Playing [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.04733)
 
-(05 May 2026) RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.03821)
 
 (05 May 2026) Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.03849)
 
@@ -1485,6 +1444,8 @@ This repo also select paper about visual generation (image generation/video gene
 
 
 (28 Apr 2026) MarkIt: Training-Free Visual Markers for Precise Video Temporal Grounding [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.25886)
+
+(28 Apr 2026) Benchmarking and Improving GUI Agents in High-Dynamic Environments [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.25380)
 
 (27 Apr 2026) World-R1: Reinforcing 3D Constraints for Text-to-Video Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.24764)
 
@@ -1756,7 +1717,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (05 Aug 2026) GeoReward: Mitigating Contextual Variable Overestimation in Vision-Language Models for Cross-Market Preference Prediction [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.04504)
 
-(02 Aug 2026) WAM-Diff2: Hierarchical AR-to-Diffusion Distillation for Highly Efficient Autonomous Driving VLA [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.01035)
 
 (31 Jul 2026) Evaluation-Verification Reward for Consistent Multi-Reference Image Editing [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.29025)
 
@@ -1931,7 +1891,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (11 Aug 2026) Evidence-Grounded Trustworthy Multimodal Reasoning and Evaluation Benchmark in Complex Urban Scenes [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.10954)
 
-(07 Aug 2026) CMU-Drive and V2V-VLA: Cooperative Multi-agent Unified Driving with Reasoning Benchmark and Vehicle-to-Vehicle Vision-Language-Action Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.07621)
 
 (05 Aug 2026) OmniRouting: A Semantic-Coupled Multimodal Benchmark for Constraint-Aware Spatial Reasoning in PCB Routing [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.04434)
 
@@ -1940,9 +1899,10 @@ This repo also select paper about visual generation (image generation/video gene
 (30 Jul 2026) OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.28609)
 
 
+(28 Jul 2026) Interactive Reward Agent: GUI Task Evaluation via Environment-State Verification [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.25904)
+
 (23 Jul 2026) Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.21072)
 
-(04 Jul 2026) Look Before You Leap: Distilling Tree Search into Action Evaluation for Frozen VLA Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.03751)
 
 (07 Jun 2026) DriveReward: A Comprehensive Dataset and Generative Vision-Language Reward Model for Autonomous Driving [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.08525)
 
@@ -2232,13 +2192,10 @@ This repo also select paper about visual generation (image generation/video gene
 
 (23 Jun 2026) Latent Visual States for Efficient Multimodal Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.24233)
 
-(13 Jun 2026) Think Less, Act Early: Reinforced Latent Reasoning with Early Exit in Vision-Language-Action Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.15099)
 
 (13 Jun 2026) DLWM: Diverse Latent World Models for Efficient Multimodal Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.15160)
 
-(04 Jun 2026) MPCoT: Reward-Guided Multi-Path Latent Reasoning for Test-Time Scalable Vision-Language-Action [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.06245)
 
-(03 Jun 2026) 3DThinkVLA: Endowing Vision-Language-Action Models with Latent 3D Priors via 3D-Thinking-Guided Co-training [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.04436)
 
 (19 May 2026) Semantic-Enriched Latent Visual Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.19342)
 
@@ -2254,7 +2211,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (04 May 2026) Visual Latents Know More Than They Say: Unsilencing Latent Reasoning in MLLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.02735)
 
-(30 Apr 2026) LaST-R1: Reinforcing Robotic Manipulation via Adaptive Physical Latent Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.28192)
 
 (29 Apr 2026) MedSynapse-V: Bridging Visual Perception and Clinical Intuition via Latent Memory Evolution [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.26283)
 
