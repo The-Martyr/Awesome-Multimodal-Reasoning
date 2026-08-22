@@ -1928,10 +1928,7 @@ This repo also select paper about visual generation (image generation/video gene
 (23 Jan 2025) Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.13926)
 
 ### Bench/Dataset
-
 (20 Aug 2026) Planning-Oriented End-to-End Autonomous Driving: Architectures, Evaluation, and Emerging Paradigms [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.20111)
-(23 Jul 2026) Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.21072)
-(01 Apr 2026) Faithful GRPO: Improving Visual Spatial Reasoning in Multimodal Language Models via Constrained Policy Optimization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.08476)
 
 (18 Aug 2026) BEAR-Bench: A Bilingual Enterprise and Academic Reasoning Benchmark for Multimodal Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.17895)
 
@@ -1946,6 +1943,8 @@ This repo also select paper about visual generation (image generation/video gene
 (30 Jul 2026) OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.28609)
 
 (28 Jul 2026) Interactive Reward Agent: GUI Task Evaluation via Environment-State Verification [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.25904)
+
+(23 Jul 2026) Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.21072)
 
 (04 Jul 2026) Look Before You Leap: Distilling Tree Search into Action Evaluation for Frozen VLA Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.03751)
 
@@ -2214,7 +2213,6 @@ This repo also select paper about visual generation (image generation/video gene
 (23 May 2023) Let's Think Frame by Frame with VIP: A Video Infilling and Prediction Dataset for Evaluating Video Chain-of-Thought. [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.13903)
 
 (18 May 2021) NExT-QA:Next Phase of Question-Answering to Explaining Temporal Actions [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2105.08276)
-
 ### Latent
 
 (20 Aug 2026) Scaffolding Minds: Optimizing Latent Visual Target Representations for Multimodal Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.19669)
