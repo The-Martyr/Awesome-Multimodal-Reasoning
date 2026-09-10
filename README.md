@@ -26,11 +26,11 @@ This repo also select paper about visual generation (image generation/video gene
 
 - [Survey](#survey)
 
+- [Image Reasoning](#image-reasoning)
+
 - [Agent](#agent)
 
 - [Embodied / Robotics](#embodied--robotics)
-
-- [Image Reasoning](#image-reasoning)
 
 - [Video](#video)
 
@@ -94,399 +94,6 @@ This repo also select paper about visual generation (image generation/video gene
 
 (16 Mar 2025) Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.12605)
 
-
-
-
-
-### Agent
-
-(09 Sep 2026) Cost-Aware Vision--Language Model Arbitration for Fabric Structure Recognition A Deployable Multi-Agent System [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.10065)
-
-(09 Sep 2026) VLX-VR: An Agentic-Aware Video Reasoning Model [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.09985)
-
-(09 Sep 2026) Who Are They to Each Other? Multi-Agent Reasoning for Speaker Relationship Inference [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.09628)
-
-(09 Sep 2026) SpeechAnnotator: A Context-Aware Multi-Agent Framework and Benchmark for Multidimensional Speech Annotation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.09947)
-
-(08 Sep 2026) An Experimental Evaluation of Multimodal Prompt Injection Attacks on Agentic AI Frameworks [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.09404)
-
-(07 Sep 2026) Eliciting Self-Verification in Multimodal Reasoning Agents with Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.08025)
-
-(07 Sep 2026) PhysMAS: Physics-Grounded Multi-Agent Synthesis of Compositional 4D Gaussians [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.07174)
-
-(06 Sep 2026) 3DHarnessBench: Probing Agentic 3D-to-Code Capabilities of Frontier Vision-Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.06535)
-
-(04 Sep 2026) CUSP: Decomposable Collective Uncertainty for Multi-Agent Multimodal Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.05708)
-
-(03 Sep 2026) WorldReward: Reward Modeling for Camera-Conditioned World Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.03952)
-
-(03 Sep 2026) StrixAE: An Intelligent Agent for Audio Enhancement under Complex Distortion Coupling in Real-World Scenarios [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.03414)
-
-(03 Sep 2026) LLM-Aided Design for Manufacturing: A Multi-Agent System for Intent-Preserving Redesign of CAD for Improved Manufacturability [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.05559)
-
-(03 Sep 2026) Making Every Tool Call Count: Necessary Tool-Evidence Path Rewards for Agentic Vision-Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.03493)
-
-(03 Sep 2026) ICM-Bench: Person-Level Identity Reasoning in Multimodal Agents with Long-Term Memory [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.04438)
-
-(02 Sep 2026) SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.02886)
-
-(02 Sep 2026) PhoenixNest-Video: Evidence-Grounded Multimodal Agent Framework for Automated Video Interview Assessment [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.02231)
-
-(01 Sep 2026) Selective Agent Guidance via Entropy: Learning Autonomous Policies from Imperfect VLM Teachers [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.01567)
-
-(01 Sep 2026) Agentic Multimodal Models for Environmental Hyperspectral Unmixing [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.01289)
-
-(01 Sep 2026) InSight: A Benchmark for Agentic Claim Verification in Interactive Visualizations [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.01383)
-
-(31 Aug 2026) CM2: Multimodal Cultural Reasoning via an Integrated Multi-Agent Framework [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.30498)
-
-(30 Aug 2026) FRAMEWORKERS: A Dynamic Multi-Agent Framework for AI-Generated Video Production [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.29814)
-
-(30 Aug 2026) Off-Manifold Refinement: Guiding Video Generators with a Frozen World Model [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.29904)
-
-(30 Aug 2026) When History Is Multimodal: Rethinking Context Management for Long-Horizon Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.29897)
-
-(29 Aug 2026) LiteSearch-VL: Small Multimodal Search Agents via Trajectory Distillation and Synthetic Step-DPO [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.29357)
-
-(28 Aug 2026) See, Hypothesize, Validate: Multimodal Agentic Framework for Discovering Governing PDEs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.27869)
-
-(27 Aug 2026) WM-R1: Training GUI Agents to Reason and leverage World Models with Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.27508)
-
-(26 Aug 2026) VISA: Agentic Self-Evolving Data Synthesis for Multimodal Instruction Following [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.26013)
-
-(26 Aug 2026) SpeechGym: An Audio-Native Gym for Training Voice Agents via Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.26432)
-
-(25 Aug 2026) Task-Adaptive Rubrics for GUI Reward Modeling [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.24174)
-
-(25 Aug 2026) DoublesEval: Diagnosing Multi-Agent Tactical Reasoning in Vision-Language Models via Professional Doubles Badminton [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.24439)
-
-(25 Aug 2026) Retrieve, Match, Escalate: Accurate and Scalable Product Linking with VLM-Distilled Cross-Encoders and Agentic VLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.25037)
-
-(25 Aug 2026) Multi-Agent Self-Improving Reinforcement Learning for Video Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.28675)
-
-(25 Aug 2026) Are Android GUI Agents Robust Against Runtime Anomalies? AnTrap: Evaluating Agents in Dynamic Adversarial Environments [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.24099)
-
-(24 Aug 2026) GSAR: Goal-State-Anchor Rewards for Mobile GUI Agents with Self-Evolving Data Synthesis [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.22847)
-
-(24 Aug 2026) Dual-Grained Agent Memory and Shapley Context Attribution for Multimodal Agentic Learner [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.23268)
-
-(24 Aug 2026) Thinking Beyond Videos: Unifying Video Reasoning and Deep Research for Open-World Video Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.23329)
-
-(22 Aug 2026) BioMed-Agent-RL: A Meta Learning, All You Need for Biomedical Applications [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.21864)
-
-(22 Aug 2026) MCite-RL: Towards Reliable Multimodal RAG via Citation-enhanced Agentic Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.21808)
-
-(22 Aug 2026) Beyond Success and Failure: Length-Aware Contrastive Learning for GUI Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.21830)
-
-(19 Aug 2026) EVADE: Evidence-Verified Agentic Diagnosis with Escape [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.18833)
-
-(19 Aug 2026) DentAgent: Evidence-Centric Multi-Agent Coordination for Multimodal Dental Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.18878)
-
-(18 Aug 2026) Co-RL: Unsupervised Reasoning Emerges from Diverse Cohort in Multi-agent RL [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.17253)
-
-(18 Aug 2026) Structural Plan-to-Model Conversion with Deterministic Geometry and Guarded Agentic Vision-Language Refinement [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.17237)
-
-(18 Aug 2026) DeAR: Decentralized Agentic Reasoning via Capability Grounding and Collaborative Thought Navigation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.17282)
-
-(17 Aug 2026) ACE-Cap: Active Evidence Acquisition via Agentic Co-Evolution for Long-Paragraph Fine-Grained Audio Captioning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.16162)
-
-(15 Aug 2026) VibeWorlding: Can Multimodal Agents Construct 3D Open Worlds End-to-End? [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.15265)
-
-(15 Aug 2026) SCOPE: Score-Isolated Agentic Optimization for Video World Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.15043)
-
-(14 Aug 2026) MMDynOpt-Agent: Dynamic Optimization for Multimodal Large Language Model Reasoning via Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.14026)
-
-(14 Aug 2026) Wyvern: An Agentic Framework for Generating Grounded Multimodal Reports [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.14446)
-
-(14 Aug 2026) MedClaw: Heuristic Agent Harness for Long-Horizon Surgical Video Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.14015)
-
-(13 Aug 2026) Intern-S2-Preview: Scientific Agentic Foundation Model [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.13505)
-
-(11 Aug 2026) MIRA: Medical Image Reflection for Agentic Diagnosis [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.10827)
-
-(11 Aug 2026) Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.11191)
-
-(08 Aug 2026) SCOUT: Self-Checking and Recovery-Aware Tool-Thought Agents for Ultra-Long Egocentric Video Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.07959)
-
-(07 Aug 2026) Glance, Scrutinize, and Think: Advancing Video Anomaly Detection from Training-Free to Agentic Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.11260)
-
-(06 Aug 2026) The Next Screenshot Knows: Gated Hindsight Distillation for Mobile GUI Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.06065)
-
-(06 Aug 2026) AppDeltaWorld: Transition-Grounded Delta Code World Model for Mobile GUI Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.05891)
-
-(04 Aug 2026) Screenshots or Tools? Eliciting Tool Use and Managing Multimodal Context in Hybrid GUI-MCP Computer-Use Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.03327)
-
-(04 Aug 2026) AgenticVAU: Multi-Agent Explore-Verify Reasoning for Video Anomaly Understanding [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.03779)
-
-(01 Aug 2026) DiffuseAgent-MI: Distributionally-Grounded,Tool-Integrated Self-Evolving Agents for Faithful Visual Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.00540)
-
-(31 Jul 2026) Adjudicated Captioning: Multi-Agent Alignment Scoring and Consensus-Distilled Beam Arbitration for Strict Zero-Shot Image Captioning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.28986)
-
-(28 Jul 2026) ODYSSE: Episode-wise Policy Optimization for Personalized Agentic Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.25369)
-
-(23 Jul 2026) EmoAgent-R1: Towards Multimodal Emotion Understanding with Reinforcement Learning-based Dynamic Agent Specialization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.21013)
-
-(17 Jul 2026) Searching Videos as Trees: Self-Correcting Agents for Grounded Long Video QA [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.16189)
-
-(14 Jul 2026) A Learning-Rate-Gated Failure of GRPO in a Small Language and Vision-Language Model Web Agent: A Controlled Null and Its Mechanism [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.12640)
-
-(14 Jul 2026) ReflectVLN: Training Vision-Language Navigation Agents with Reflective Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.12680)
-
-(14 Jul 2026) EvoGraph-R1: Self-Evolving Multimodal Knowledge Hypergraphs for Agentic Retrieval [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.12764)
-
-(13 Jul 2026) The Path to Self-Evolving Clinical Systems: Scaling Medical Agents from Assistance to Autonomy [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.11175)
-
-(07 Jul 2026) EvoCUA-1.5: Online Reinforcement Learning for Multi-turn Computer-Use Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.09773)
-
-(03 Jul 2026) VideoSearcher: Empowering Video Deep Research with Multi-Tool Agentic Reasoning via Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.02927)
-
-(18 Jun 2026) MobileForge: Annotation-Free Adaptation for Mobile GUI Agents with Hierarchical Feedback-Guided Policy Optimization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.19930)
-
-(15 Jun 2026) Context-Aware RL for Agentic and Multimodal LLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.17053)
-
-(10 Jun 2026) IAPO: Input Attribution-Aware Policy Optimization for Tool Use in Small Multimodal Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.11652)
-
-(10 Jun 2026) MODF-SIR: A Multi-agent Omni-modal Distilled Framework for Social Intelligence Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.12018)
-
-(10 Jun 2026) Orchestra-o1: Omnimodal Agent Orchestration [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.13707)
-
-(05 Jun 2026) StainFlow: Entity-Stain Tracking and Evidence Linking for Process Rewards in GUI Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.07027)
-
-(04 Jun 2026) AsyncWebRL: Efficient Asynchronous Reinforcement Learning for Multi-Step Visual Web Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.05597)
-
-(04 Jun 2026) TAPO: Tool-Aware Policy Optimization via Credit Transfer for Multimodal Search Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.05784)
-
-(04 Jun 2026) Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.06476)
-
-(01 Jun 2026) OpenWebRL: Demystifying Online Multi-turn Reinforcement Learning for Visual Web Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.02031)
-
-(19 May 2026) ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.20176)
-
-(19 May 2026) ParaVT: Taming the Tool Prior Paradox for Parallel Tool Use in Agentic Video Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.20342)
-
-(18 May 2026) AtlasVA: Self-Evolving Visual Skill Memory for Teacher-Free VLM Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.17933)
-
-(18 May 2026) GROW: Aligning GRPO with State-Action Modeling for Open-World VLM Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.20246)
-
-(18 May 2026) An Efficient Streaming Video Understanding Framework with Agentic Control [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.17921)
-
-(16 May 2026) OmniVL-Guard Pro: A Tool-Augmented Agent for Omnibus Vision-Language Forensics [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.16962)
-
-(14 May 2026) ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.15198)
-
-(13 May 2026) ProtoMedAgent: Multimodal Clinical Interpretability via Privacy-Aware Agentic Workflows [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.14113)
-
-(10 May 2026) Empowering VLMs for Few-Shot Multimodal Time Series Classification via Tailored Agentic Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.09395)
-
-(08 May 2026) HyperEyes: Dual-Grained Efficiency-Aware Reinforcement Learning for Parallel Multimodal Search Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.07177)
-
-(08 May 2026) LiteGUI: Distilling Compact GUI Agents with Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.07505)
-
-(08 May 2026) Bridging Modalities, Spanning Time: Structured Memory for Ultra-Long Agentic Video Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.08271)
-
-(07 May 2026) A$^2$RD: Agentic Autoregressive Diffusion for Long Video Consistency [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.06924)
-
-(05 May 2026) What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.03782)
-
-(01 May 2026) Learn where to Click from Yourself: On-Policy Self-Distillation for GUI Grounding [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.00642)
-
-(30 Apr 2026) Echo-α: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.28011)
-
-(30 Apr 2026) MM-StanceDet: Retrieval-Augmented Multi-modal Multi-agent Stance Detection [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.27934)
-
-(30 Apr 2026) GUI Agents with Reinforcement Learning: Toward Digital Inhabitants [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.27955)
-
-(29 Apr 2026) GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.26752)
-
-(28 Apr 2026) Benchmarking and Improving GUI Agents in High-Dynamic Environments [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.25380)
-
-(27 Apr 2026) Agentic AI for Remote Sensing: Technical Challenges and Research Directions [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.24919)
-
-(25 Apr 2026) SoccerRef-Agents: Multi-Agent System for Automated Soccer Refereeing [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.23392)
-
-(13 Apr 2026) Collaborative Multi-Agent Scripts Generation for Enhancing Imperfect-Information Reasoning in Murder Mystery Games [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.11741v1)
-
-(13 Apr 2026) Dialectic-Med: Mitigating Diagnostic Hallucinations via Counterfactual Adversarial Multi-Agent Debate [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.11258v1)
-
-(10 Apr 2026) Text-Guided 6D Object Pose Rearrangement via Closed-Loop VLM Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.09781v1)
-
-(10 Apr 2026) ActFER: Agentic Facial Expression Recognition via Active Tool-Augmented Visual Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.08990v1)
-
-(09 Apr 2026) RemoteAgent: Bridging Vague Human Intents and Earth Observation with RL-based Agentic MLLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.07765v2)
-
-(09 Apr 2026) MedVR: Annotation-Free Medical Visual Reasoning via Agentic Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.08203v1)
-
-(08 Apr 2026) Walk the Talk: Bridging the Reasoning-Action Gap for Thinking with Images via Multimodal Agentic Policy Optimization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.06777v1)
-
-(07 Apr 2026) Don't Act Blindly: Robust GUI Automation via Action-Effect Verification and Self-Correction [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.05477v1)
-
-(29 Mar 2026) MuSEAgent: A Multimodal Reasoning Agent with Stateful Experiences [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.27813v1)
-
-(27 Mar 2026) Rethinking Token Pruning for Historical Screenshots in GUI Visual Agents: Semantic, Spatial, and Temporal Perspectives [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.26041v2)
-
-(24 Mar 2026) EVA: Efficient Reinforcement Learning for End-to-End Video Agent [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.22918v2)
-
-(17 Mar 2026) PaAgent: Portrait-Aware Image Restoration Agent via Subjective-Objective Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.17055v1)
-
-(17 Mar 2026) OpenQlaw: An Agentic AI Assistant for Analysis of 2D Quantum Materials [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.17043v1)
-
-(16 Mar 2026) MA-VLCM: A Vision Language Critic Model for Value Estimation of Policies in Multi-Agent Team Settings [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.15418v1)
-
-(03 Mar 2026) Agentic Mixed-Source Multi-Modal Misinformation Detection with Adaptive Test-Time Scaling [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.02519v1)
-
-(26 Feb 2026) FactGuard: Agentic Video Misinformation Detection via Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.22963v1)
-
-(26 Feb 2026) CXReasonAgent: Evidence-Grounded Diagnostic Reasoning Agent for Chest X-rays [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.23276v2)
-
-(19 Feb 2026) RetouchIQ: MLLM Agents for Instruction-Based Image Retouching with Generalist Reward [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.17558v1)
-
-(14 Feb 2026) Building Autonomous GUI Navigation via Agentic-Q Estimation and Step-Wise Policy Optimization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.13653v1)
-
-(05 Feb 2026) V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.06034v2)
-
-(26 Jan 2026) GenAgent: Scaling Text-to-Image Generation via Agentic Multimodal Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.18543v2)
-
-(30 Dec 2025) SenseNova-MARS: Empowering Multimodal Agentic Reasoning and Search via Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.24330v2)
-
-(23 Dec 2025) CRAFT: Continuous Reasoning and Agentic Feedback Tuning for Multimodal Text-to-Image Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.20362v2)
-
-(21 Dec 2025) Restore-R1: Efficient Image Restoration Agents via Reinforcement Learning with Multimodal LLM Perceptual Feedback [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.18599v2)
-
-(09 Dec 2025) Thinking with Images via Self-Calling Agent [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.08511v2)
-
-(06 Dec 2025) VG-Refiner: Towards Tool-Refined Referring Grounded Reasoning via Agentic Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.06373v1)
-
-(03 Dec 2025) Multimodal Reinforcement Learning with Agentic Verifier for AI Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.03438v1)
-
-(26 Nov 2025) OVOD-Agent: A Markov-Bandit Framework for Proactive Visual Reasoning and Self-Evolving Detection [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.21064v1)
-
-(25 Nov 2025) VICoT-Agent: A Vision-Interleaved Chain-of-Thought Framework for Interpretable Multimodal Reasoning and Scalable Remote Sensing Analysis [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.20085v3)
-
-(24 Nov 2025) VideoChat-M1: Collaborative Policy Planning for Video Understanding via Multi-Agent Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.19524v2)
-
-(17 Nov 2025) DeepSport: A Multimodal Large Language Model for Comprehensive Sports Video Reasoning via Agentic Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.12908v2)
-
-(12 Nov 2025) History-Aware Reasoning for GUI Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.09127v1)
-
-(31 Oct 2025) GUI-Rise: Structured Reasoning and History Summarization for GUI Navigation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.27210v1)
-
-(2 Dec 2024) Enhancing Video-LLM Reasoning via Agent-of-Thoughts Distillation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.01694v2)
-
-### Embodied / Robotics
-
-(09 Sep 2026) HaWMPO: Hallucination-Aware World Model-based Policy Optimization for Generalist Robot Policy [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.09941)
-
-(08 Sep 2026) CLAMP: Constrained Decoding for Vision-Language Embodied Planning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.08602)
-
-(08 Sep 2026) WorldAgen: Unified State-Action Prediction with Test-Time World Model Training [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.08162)
-
-(08 Sep 2026) CASD: Chunk-Aligned Semantic Distillation for Multi-StageRobot Manipulation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.08638)
-
-(08 Sep 2026) Towards Embodied Air-Ground Cooperative Object Search: Benchmark, Dataset and Agentic Method [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.08402)
-
-(07 Sep 2026) Phase-and-First-Arrival VLM Feedback for Sparse-Reward Reinforcement Learning in Surgical Manipulation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.07211)
-
-(07 Sep 2026) Contextual Observer Grounding: Evaluating Situated Spatial Reasoning in Vision-Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.06880)
-
-(07 Sep 2026) Dex-X: Learning Visual-Tactile Dexterous Manipulation From Human Videos with Simulated Interaction [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.07747)
-
-(05 Sep 2026) FACT: A Forensic Agent with Compiled Tool-Use Trajectories for AI-Generated Image Detection [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.05876)
-
-(05 Sep 2026) MobileVLA-R1 2.0: RL-Enhanced Reasoning for Mobile Robot Control [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.06251)
-
-(05 Sep 2026) CST-WM: A Causally Structured World Model for Embodied Visual Tracking [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.06302)
-
-(05 Sep 2026) Learning Counterfactual World Models for Embodied Reasoning under Partial Observability [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.05834)
-
-(04 Sep 2026) Reasoning Without Inference Cost: Latent Semantic Scaffolding for Robot VLA Policies [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.04893)
-
-(04 Sep 2026) Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.05401)
-
-(04 Sep 2026) Towards Neuro-Symbolic Procedural Reasoning for Long-Horizon Vision-Language-Action Manipulation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.05369)
-
-(03 Sep 2026) VLA-Precision: Asymmetric Co-Bootstrapping for Efficient Real-World Online RL of Vision-Language-Action Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.04355)
-
-(03 Sep 2026) ToolDF: Tool-Integrated Reasoning for Mixed-Authenticity Audio Deepfake Detection [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.03620)
-
-(03 Sep 2026) Toward Unified Robot Learning: Bridging Representation, Vision-Language-Action, and World Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.03927)
-
-(03 Sep 2026) WISE: World-model-guided Imagination Scheduling for Efficient Post-training of Vision-Language-Action Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.03681)
-
-(03 Sep 2026) Continuous Actions from Discrete Minds: Latent-Aligned Planning for End-to-End Autonomous Driving [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.04070)
-
-(30 Aug 2026) SymVD: Symmetric Vision Language Action Distillation for Robot Manipulation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.29828)
-
-(27 Aug 2026) Diffusion Policies for Short-Horizon Planning in Robot Crowd Navigation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.27158)
-
-(27 Aug 2026) Decoupling Planning and Control for Instructable Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.26788)
-
-(27 Aug 2026) Embodied Scene Rearrangement Planning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.27371)
-
-(26 Aug 2026) Beyond Pairwise Feedback: Listwise Vision-Language Supervision for Preference-Based Reward Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.25350)
-
-(26 Aug 2026) $R^3$: Training Robots to Reason in Natural Language via Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.26053)
-
-(25 Aug 2026) GaussVLA: Geometry-Aware Spatial Reasoning for Vision-Language-Action Model [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.24959)
-
-(25 Aug 2026) TrAct: Bridging Robot Control and Visual Prediction with Visual Tracks [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.24101)
-
-(24 Aug 2026) OptiSight: Bridging Semantic Reasoning and Geometric Control for Embodied Navigation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.23354)
-
-(24 Aug 2026) Act with Intent: Distilling Behavior Intent for Vision-Language-Action Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.23478)
-
-(22 Aug 2026) Decoupled Physical Modeling and Execution for Physics Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.22126)
-
-(22 Aug 2026) CounterAlign: Counterfactual Supervision for Vision-Language-Action Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.21740)
-
-(18 Aug 2026) Prism-GRPO: Faster VLA Policy Optimization via Splitting Same-outcome Groups [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.17423)
-
-(18 Aug 2026) Embodied-Navigator: Point, Think, Memorize, and Align for Efficient Navigation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.17512)
-
-(17 Aug 2026) FetchMan: Learning Visual Humanoid Loco-Manipulation Policies from Simulated Experiences [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.17027)
-
-(17 Aug 2026) PROBE: Manipulation-Grounded Visual Question Answering with VLM Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.17129)
-
-(17 Aug 2026) Inference-Time Attention Steering for Vision-Language-Action Driving Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.17095)
-
-(17 Aug 2026) Planner-Conditioned Diffusion for Coordinated Multi-Agent Exploration [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.16229)
-
-(17 Aug 2026) HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.16837)
-
-(17 Aug 2026) $τ_0$-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.16885)
-
-(16 Aug 2026) Robo-Dopamine 2.0: History-Conditioned and OOD-Aware Process Reward Modeling for Robotic Manipulation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.15680)
-
-(14 Aug 2026) Imagining Recovery: Inference-Time Counterfactual Realignment for Vision-Language-Action Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.14822)
-
-(21 Jul 2026) No Training, Better Flights: Test-Time Scaled VLMs for UAV Navigation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.19288)
-
-(24 Jun 2026) RMTL: Reinforced Micro-task Learning for Long-Horizon Manipulation with VLM Rewards [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.26175)
-
-(12 Apr 2026) A Progressive Training Strategy for Vision-Language Models to Counteract Spatio-Temporal Hallucinations in Embodied Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.10506v1)
-
-(30 Mar 2026) SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.28730v1)
-
-(22 Mar 2026) RoboAlign: Learning Test-Time Reasoning for Language-Action Alignment in Vision-Language-Action Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.21341v1)
-
-(16 Mar 2026) From Passive Observer to Active Critic: Reinforcement Learning Elicits Process Reasoning for Robotic Manipulation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.15600v1)
-
-(24 Feb 2026) HALO: A Unified Vision-Language-Action Model for Embodied Multimodal Chain-of-Thought Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.21157v2)
-
-(18 Feb 2026) Peeking Ahead of the Field Study: Exploring VLM Personas as Support Tools for Embodied Studies in HCI [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.16157v1)
-
-(16 Feb 2026) Ground-Truth Depth in Vision Language Models: Spatial Context Understanding in Conversational AI for XR-Robotic Support in Emergency First Response [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.15237v1)
-
-(07 Feb 2026) VGAS: Value-Guided Action-Chunk Selection for Few-Shot Vision-Language-Action Adaptation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.07399v1)
-
-(16 Jan 2026) ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.11404v2)
-
-(02 Jan 2026) RoboReward: General-Purpose Vision-Language Reward Models for Robotics [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.00675v2)
-
-(21 Dec 2025) ESearch-R1: Learning Cost-Aware MLLM Agents for Interactive Embodied Search via Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.18571v1)
-
-(28 Nov 2025) Video-CoM: Interactive Video Reasoning via Chain of Manipulations [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.23477v1)
-
-(13 Nov 2025) AffordBot: 3D Fine-grained Embodied Reasoning via Multimodal Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.10017v1)
 
 ### Image Reasoning
 
@@ -1524,6 +1131,399 @@ This repo also select paper about visual generation (image generation/video gene
 
 (2 Feb 2023) Multimodal Chain-of-Thought Reasoning in Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.00923)
 
+
+### Agent
+
+(09 Sep 2026) Cost-Aware Vision--Language Model Arbitration for Fabric Structure Recognition A Deployable Multi-Agent System [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.10065)
+
+(09 Sep 2026) VLX-VR: An Agentic-Aware Video Reasoning Model [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.09985)
+
+(09 Sep 2026) Who Are They to Each Other? Multi-Agent Reasoning for Speaker Relationship Inference [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.09628)
+
+(09 Sep 2026) SpeechAnnotator: A Context-Aware Multi-Agent Framework and Benchmark for Multidimensional Speech Annotation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.09947)
+
+(08 Sep 2026) An Experimental Evaluation of Multimodal Prompt Injection Attacks on Agentic AI Frameworks [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.09404)
+
+(07 Sep 2026) Eliciting Self-Verification in Multimodal Reasoning Agents with Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.08025)
+
+(07 Sep 2026) PhysMAS: Physics-Grounded Multi-Agent Synthesis of Compositional 4D Gaussians [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.07174)
+
+(06 Sep 2026) 3DHarnessBench: Probing Agentic 3D-to-Code Capabilities of Frontier Vision-Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.06535)
+
+(04 Sep 2026) CUSP: Decomposable Collective Uncertainty for Multi-Agent Multimodal Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.05708)
+
+(03 Sep 2026) WorldReward: Reward Modeling for Camera-Conditioned World Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.03952)
+
+(03 Sep 2026) StrixAE: An Intelligent Agent for Audio Enhancement under Complex Distortion Coupling in Real-World Scenarios [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.03414)
+
+(03 Sep 2026) LLM-Aided Design for Manufacturing: A Multi-Agent System for Intent-Preserving Redesign of CAD for Improved Manufacturability [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.05559)
+
+(03 Sep 2026) Making Every Tool Call Count: Necessary Tool-Evidence Path Rewards for Agentic Vision-Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.03493)
+
+(03 Sep 2026) ICM-Bench: Person-Level Identity Reasoning in Multimodal Agents with Long-Term Memory [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.04438)
+
+(02 Sep 2026) SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.02886)
+
+(02 Sep 2026) PhoenixNest-Video: Evidence-Grounded Multimodal Agent Framework for Automated Video Interview Assessment [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.02231)
+
+(01 Sep 2026) Selective Agent Guidance via Entropy: Learning Autonomous Policies from Imperfect VLM Teachers [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.01567)
+
+(01 Sep 2026) Agentic Multimodal Models for Environmental Hyperspectral Unmixing [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.01289)
+
+(01 Sep 2026) InSight: A Benchmark for Agentic Claim Verification in Interactive Visualizations [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.01383)
+
+(31 Aug 2026) CM2: Multimodal Cultural Reasoning via an Integrated Multi-Agent Framework [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.30498)
+
+(30 Aug 2026) FRAMEWORKERS: A Dynamic Multi-Agent Framework for AI-Generated Video Production [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.29814)
+
+(30 Aug 2026) Off-Manifold Refinement: Guiding Video Generators with a Frozen World Model [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.29904)
+
+(30 Aug 2026) When History Is Multimodal: Rethinking Context Management for Long-Horizon Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.29897)
+
+(29 Aug 2026) LiteSearch-VL: Small Multimodal Search Agents via Trajectory Distillation and Synthetic Step-DPO [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.29357)
+
+(28 Aug 2026) See, Hypothesize, Validate: Multimodal Agentic Framework for Discovering Governing PDEs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.27869)
+
+(27 Aug 2026) WM-R1: Training GUI Agents to Reason and leverage World Models with Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.27508)
+
+(26 Aug 2026) VISA: Agentic Self-Evolving Data Synthesis for Multimodal Instruction Following [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.26013)
+
+(26 Aug 2026) SpeechGym: An Audio-Native Gym for Training Voice Agents via Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.26432)
+
+(25 Aug 2026) Task-Adaptive Rubrics for GUI Reward Modeling [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.24174)
+
+(25 Aug 2026) DoublesEval: Diagnosing Multi-Agent Tactical Reasoning in Vision-Language Models via Professional Doubles Badminton [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.24439)
+
+(25 Aug 2026) Retrieve, Match, Escalate: Accurate and Scalable Product Linking with VLM-Distilled Cross-Encoders and Agentic VLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.25037)
+
+(25 Aug 2026) Multi-Agent Self-Improving Reinforcement Learning for Video Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.28675)
+
+(25 Aug 2026) Are Android GUI Agents Robust Against Runtime Anomalies? AnTrap: Evaluating Agents in Dynamic Adversarial Environments [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.24099)
+
+(24 Aug 2026) GSAR: Goal-State-Anchor Rewards for Mobile GUI Agents with Self-Evolving Data Synthesis [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.22847)
+
+(24 Aug 2026) Dual-Grained Agent Memory and Shapley Context Attribution for Multimodal Agentic Learner [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.23268)
+
+(24 Aug 2026) Thinking Beyond Videos: Unifying Video Reasoning and Deep Research for Open-World Video Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.23329)
+
+(22 Aug 2026) BioMed-Agent-RL: A Meta Learning, All You Need for Biomedical Applications [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.21864)
+
+(22 Aug 2026) MCite-RL: Towards Reliable Multimodal RAG via Citation-enhanced Agentic Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.21808)
+
+(22 Aug 2026) Beyond Success and Failure: Length-Aware Contrastive Learning for GUI Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.21830)
+
+(19 Aug 2026) EVADE: Evidence-Verified Agentic Diagnosis with Escape [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.18833)
+
+(19 Aug 2026) DentAgent: Evidence-Centric Multi-Agent Coordination for Multimodal Dental Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.18878)
+
+(18 Aug 2026) Co-RL: Unsupervised Reasoning Emerges from Diverse Cohort in Multi-agent RL [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.17253)
+
+(18 Aug 2026) Structural Plan-to-Model Conversion with Deterministic Geometry and Guarded Agentic Vision-Language Refinement [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.17237)
+
+(18 Aug 2026) DeAR: Decentralized Agentic Reasoning via Capability Grounding and Collaborative Thought Navigation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.17282)
+
+(17 Aug 2026) ACE-Cap: Active Evidence Acquisition via Agentic Co-Evolution for Long-Paragraph Fine-Grained Audio Captioning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.16162)
+
+(15 Aug 2026) VibeWorlding: Can Multimodal Agents Construct 3D Open Worlds End-to-End? [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.15265)
+
+(15 Aug 2026) SCOPE: Score-Isolated Agentic Optimization for Video World Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.15043)
+
+(14 Aug 2026) MMDynOpt-Agent: Dynamic Optimization for Multimodal Large Language Model Reasoning via Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.14026)
+
+(14 Aug 2026) Wyvern: An Agentic Framework for Generating Grounded Multimodal Reports [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.14446)
+
+(14 Aug 2026) MedClaw: Heuristic Agent Harness for Long-Horizon Surgical Video Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.14015)
+
+(13 Aug 2026) Intern-S2-Preview: Scientific Agentic Foundation Model [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.13505)
+
+(11 Aug 2026) MIRA: Medical Image Reflection for Agentic Diagnosis [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.10827)
+
+(11 Aug 2026) Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.11191)
+
+(08 Aug 2026) SCOUT: Self-Checking and Recovery-Aware Tool-Thought Agents for Ultra-Long Egocentric Video Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.07959)
+
+(07 Aug 2026) Glance, Scrutinize, and Think: Advancing Video Anomaly Detection from Training-Free to Agentic Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.11260)
+
+(06 Aug 2026) The Next Screenshot Knows: Gated Hindsight Distillation for Mobile GUI Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.06065)
+
+(06 Aug 2026) AppDeltaWorld: Transition-Grounded Delta Code World Model for Mobile GUI Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.05891)
+
+(04 Aug 2026) Screenshots or Tools? Eliciting Tool Use and Managing Multimodal Context in Hybrid GUI-MCP Computer-Use Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.03327)
+
+(04 Aug 2026) AgenticVAU: Multi-Agent Explore-Verify Reasoning for Video Anomaly Understanding [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.03779)
+
+(01 Aug 2026) DiffuseAgent-MI: Distributionally-Grounded,Tool-Integrated Self-Evolving Agents for Faithful Visual Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.00540)
+
+(31 Jul 2026) Adjudicated Captioning: Multi-Agent Alignment Scoring and Consensus-Distilled Beam Arbitration for Strict Zero-Shot Image Captioning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.28986)
+
+(28 Jul 2026) ODYSSE: Episode-wise Policy Optimization for Personalized Agentic Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.25369)
+
+(23 Jul 2026) EmoAgent-R1: Towards Multimodal Emotion Understanding with Reinforcement Learning-based Dynamic Agent Specialization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.21013)
+
+(17 Jul 2026) Searching Videos as Trees: Self-Correcting Agents for Grounded Long Video QA [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.16189)
+
+(14 Jul 2026) A Learning-Rate-Gated Failure of GRPO in a Small Language and Vision-Language Model Web Agent: A Controlled Null and Its Mechanism [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.12640)
+
+(14 Jul 2026) ReflectVLN: Training Vision-Language Navigation Agents with Reflective Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.12680)
+
+(14 Jul 2026) EvoGraph-R1: Self-Evolving Multimodal Knowledge Hypergraphs for Agentic Retrieval [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.12764)
+
+(13 Jul 2026) The Path to Self-Evolving Clinical Systems: Scaling Medical Agents from Assistance to Autonomy [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.11175)
+
+(07 Jul 2026) EvoCUA-1.5: Online Reinforcement Learning for Multi-turn Computer-Use Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.09773)
+
+(03 Jul 2026) VideoSearcher: Empowering Video Deep Research with Multi-Tool Agentic Reasoning via Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.02927)
+
+(18 Jun 2026) MobileForge: Annotation-Free Adaptation for Mobile GUI Agents with Hierarchical Feedback-Guided Policy Optimization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.19930)
+
+(15 Jun 2026) Context-Aware RL for Agentic and Multimodal LLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.17053)
+
+(10 Jun 2026) IAPO: Input Attribution-Aware Policy Optimization for Tool Use in Small Multimodal Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.11652)
+
+(10 Jun 2026) MODF-SIR: A Multi-agent Omni-modal Distilled Framework for Social Intelligence Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.12018)
+
+(10 Jun 2026) Orchestra-o1: Omnimodal Agent Orchestration [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.13707)
+
+(05 Jun 2026) StainFlow: Entity-Stain Tracking and Evidence Linking for Process Rewards in GUI Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.07027)
+
+(04 Jun 2026) AsyncWebRL: Efficient Asynchronous Reinforcement Learning for Multi-Step Visual Web Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.05597)
+
+(04 Jun 2026) TAPO: Tool-Aware Policy Optimization via Credit Transfer for Multimodal Search Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.05784)
+
+(04 Jun 2026) Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.06476)
+
+(01 Jun 2026) OpenWebRL: Demystifying Online Multi-turn Reinforcement Learning for Visual Web Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.02031)
+
+(19 May 2026) ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.20176)
+
+(19 May 2026) ParaVT: Taming the Tool Prior Paradox for Parallel Tool Use in Agentic Video Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.20342)
+
+(18 May 2026) AtlasVA: Self-Evolving Visual Skill Memory for Teacher-Free VLM Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.17933)
+
+(18 May 2026) GROW: Aligning GRPO with State-Action Modeling for Open-World VLM Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.20246)
+
+(18 May 2026) An Efficient Streaming Video Understanding Framework with Agentic Control [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.17921)
+
+(16 May 2026) OmniVL-Guard Pro: A Tool-Augmented Agent for Omnibus Vision-Language Forensics [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.16962)
+
+(14 May 2026) ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.15198)
+
+(13 May 2026) ProtoMedAgent: Multimodal Clinical Interpretability via Privacy-Aware Agentic Workflows [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.14113)
+
+(10 May 2026) Empowering VLMs for Few-Shot Multimodal Time Series Classification via Tailored Agentic Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.09395)
+
+(08 May 2026) HyperEyes: Dual-Grained Efficiency-Aware Reinforcement Learning for Parallel Multimodal Search Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.07177)
+
+(08 May 2026) LiteGUI: Distilling Compact GUI Agents with Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.07505)
+
+(08 May 2026) Bridging Modalities, Spanning Time: Structured Memory for Ultra-Long Agentic Video Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.08271)
+
+(07 May 2026) A$^2$RD: Agentic Autoregressive Diffusion for Long Video Consistency [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.06924)
+
+(05 May 2026) What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.03782)
+
+(01 May 2026) Learn where to Click from Yourself: On-Policy Self-Distillation for GUI Grounding [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.00642)
+
+(30 Apr 2026) Echo-α: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.28011)
+
+(30 Apr 2026) MM-StanceDet: Retrieval-Augmented Multi-modal Multi-agent Stance Detection [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.27934)
+
+(30 Apr 2026) GUI Agents with Reinforcement Learning: Toward Digital Inhabitants [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.27955)
+
+(29 Apr 2026) GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.26752)
+
+(28 Apr 2026) Benchmarking and Improving GUI Agents in High-Dynamic Environments [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.25380)
+
+(27 Apr 2026) Agentic AI for Remote Sensing: Technical Challenges and Research Directions [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.24919)
+
+(25 Apr 2026) SoccerRef-Agents: Multi-Agent System for Automated Soccer Refereeing [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.23392)
+
+(13 Apr 2026) Collaborative Multi-Agent Scripts Generation for Enhancing Imperfect-Information Reasoning in Murder Mystery Games [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.11741v1)
+
+(13 Apr 2026) Dialectic-Med: Mitigating Diagnostic Hallucinations via Counterfactual Adversarial Multi-Agent Debate [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.11258v1)
+
+(10 Apr 2026) Text-Guided 6D Object Pose Rearrangement via Closed-Loop VLM Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.09781v1)
+
+(10 Apr 2026) ActFER: Agentic Facial Expression Recognition via Active Tool-Augmented Visual Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.08990v1)
+
+(09 Apr 2026) RemoteAgent: Bridging Vague Human Intents and Earth Observation with RL-based Agentic MLLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.07765v2)
+
+(09 Apr 2026) MedVR: Annotation-Free Medical Visual Reasoning via Agentic Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.08203v1)
+
+(08 Apr 2026) Walk the Talk: Bridging the Reasoning-Action Gap for Thinking with Images via Multimodal Agentic Policy Optimization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.06777v1)
+
+(07 Apr 2026) Don't Act Blindly: Robust GUI Automation via Action-Effect Verification and Self-Correction [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.05477v1)
+
+(29 Mar 2026) MuSEAgent: A Multimodal Reasoning Agent with Stateful Experiences [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.27813v1)
+
+(27 Mar 2026) Rethinking Token Pruning for Historical Screenshots in GUI Visual Agents: Semantic, Spatial, and Temporal Perspectives [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.26041v2)
+
+(24 Mar 2026) EVA: Efficient Reinforcement Learning for End-to-End Video Agent [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.22918v2)
+
+(17 Mar 2026) PaAgent: Portrait-Aware Image Restoration Agent via Subjective-Objective Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.17055v1)
+
+(17 Mar 2026) OpenQlaw: An Agentic AI Assistant for Analysis of 2D Quantum Materials [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.17043v1)
+
+(16 Mar 2026) MA-VLCM: A Vision Language Critic Model for Value Estimation of Policies in Multi-Agent Team Settings [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.15418v1)
+
+(03 Mar 2026) Agentic Mixed-Source Multi-Modal Misinformation Detection with Adaptive Test-Time Scaling [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.02519v1)
+
+(26 Feb 2026) FactGuard: Agentic Video Misinformation Detection via Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.22963v1)
+
+(26 Feb 2026) CXReasonAgent: Evidence-Grounded Diagnostic Reasoning Agent for Chest X-rays [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.23276v2)
+
+(19 Feb 2026) RetouchIQ: MLLM Agents for Instruction-Based Image Retouching with Generalist Reward [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.17558v1)
+
+(14 Feb 2026) Building Autonomous GUI Navigation via Agentic-Q Estimation and Step-Wise Policy Optimization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.13653v1)
+
+(05 Feb 2026) V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.06034v2)
+
+(26 Jan 2026) GenAgent: Scaling Text-to-Image Generation via Agentic Multimodal Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.18543v2)
+
+(30 Dec 2025) SenseNova-MARS: Empowering Multimodal Agentic Reasoning and Search via Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.24330v2)
+
+(23 Dec 2025) CRAFT: Continuous Reasoning and Agentic Feedback Tuning for Multimodal Text-to-Image Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.20362v2)
+
+(21 Dec 2025) Restore-R1: Efficient Image Restoration Agents via Reinforcement Learning with Multimodal LLM Perceptual Feedback [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.18599v2)
+
+(09 Dec 2025) Thinking with Images via Self-Calling Agent [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.08511v2)
+
+(06 Dec 2025) VG-Refiner: Towards Tool-Refined Referring Grounded Reasoning via Agentic Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.06373v1)
+
+(03 Dec 2025) Multimodal Reinforcement Learning with Agentic Verifier for AI Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.03438v1)
+
+(26 Nov 2025) OVOD-Agent: A Markov-Bandit Framework for Proactive Visual Reasoning and Self-Evolving Detection [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.21064v1)
+
+(25 Nov 2025) VICoT-Agent: A Vision-Interleaved Chain-of-Thought Framework for Interpretable Multimodal Reasoning and Scalable Remote Sensing Analysis [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.20085v3)
+
+(24 Nov 2025) VideoChat-M1: Collaborative Policy Planning for Video Understanding via Multi-Agent Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.19524v2)
+
+(17 Nov 2025) DeepSport: A Multimodal Large Language Model for Comprehensive Sports Video Reasoning via Agentic Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.12908v2)
+
+(12 Nov 2025) History-Aware Reasoning for GUI Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.09127v1)
+
+(31 Oct 2025) GUI-Rise: Structured Reasoning and History Summarization for GUI Navigation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.27210v1)
+
+(2 Dec 2024) Enhancing Video-LLM Reasoning via Agent-of-Thoughts Distillation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.01694v2)
+
+
+### Embodied / Robotics
+
+(09 Sep 2026) HaWMPO: Hallucination-Aware World Model-based Policy Optimization for Generalist Robot Policy [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.09941)
+
+(08 Sep 2026) CLAMP: Constrained Decoding for Vision-Language Embodied Planning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.08602)
+
+(08 Sep 2026) WorldAgen: Unified State-Action Prediction with Test-Time World Model Training [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.08162)
+
+(08 Sep 2026) CASD: Chunk-Aligned Semantic Distillation for Multi-StageRobot Manipulation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.08638)
+
+(08 Sep 2026) Towards Embodied Air-Ground Cooperative Object Search: Benchmark, Dataset and Agentic Method [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.08402)
+
+(07 Sep 2026) Phase-and-First-Arrival VLM Feedback for Sparse-Reward Reinforcement Learning in Surgical Manipulation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.07211)
+
+(07 Sep 2026) Contextual Observer Grounding: Evaluating Situated Spatial Reasoning in Vision-Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.06880)
+
+(07 Sep 2026) Dex-X: Learning Visual-Tactile Dexterous Manipulation From Human Videos with Simulated Interaction [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.07747)
+
+(05 Sep 2026) FACT: A Forensic Agent with Compiled Tool-Use Trajectories for AI-Generated Image Detection [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.05876)
+
+(05 Sep 2026) MobileVLA-R1 2.0: RL-Enhanced Reasoning for Mobile Robot Control [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.06251)
+
+(05 Sep 2026) CST-WM: A Causally Structured World Model for Embodied Visual Tracking [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.06302)
+
+(05 Sep 2026) Learning Counterfactual World Models for Embodied Reasoning under Partial Observability [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.05834)
+
+(04 Sep 2026) Reasoning Without Inference Cost: Latent Semantic Scaffolding for Robot VLA Policies [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.04893)
+
+(04 Sep 2026) Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.05401)
+
+(04 Sep 2026) Towards Neuro-Symbolic Procedural Reasoning for Long-Horizon Vision-Language-Action Manipulation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.05369)
+
+(03 Sep 2026) VLA-Precision: Asymmetric Co-Bootstrapping for Efficient Real-World Online RL of Vision-Language-Action Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.04355)
+
+(03 Sep 2026) ToolDF: Tool-Integrated Reasoning for Mixed-Authenticity Audio Deepfake Detection [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.03620)
+
+(03 Sep 2026) Toward Unified Robot Learning: Bridging Representation, Vision-Language-Action, and World Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.03927)
+
+(03 Sep 2026) WISE: World-model-guided Imagination Scheduling for Efficient Post-training of Vision-Language-Action Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.03681)
+
+(03 Sep 2026) Continuous Actions from Discrete Minds: Latent-Aligned Planning for End-to-End Autonomous Driving [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.04070)
+
+(30 Aug 2026) SymVD: Symmetric Vision Language Action Distillation for Robot Manipulation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.29828)
+
+(27 Aug 2026) Diffusion Policies for Short-Horizon Planning in Robot Crowd Navigation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.27158)
+
+(27 Aug 2026) Decoupling Planning and Control for Instructable Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.26788)
+
+(27 Aug 2026) Embodied Scene Rearrangement Planning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.27371)
+
+(26 Aug 2026) Beyond Pairwise Feedback: Listwise Vision-Language Supervision for Preference-Based Reward Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.25350)
+
+(26 Aug 2026) $R^3$: Training Robots to Reason in Natural Language via Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.26053)
+
+(25 Aug 2026) GaussVLA: Geometry-Aware Spatial Reasoning for Vision-Language-Action Model [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.24959)
+
+(25 Aug 2026) TrAct: Bridging Robot Control and Visual Prediction with Visual Tracks [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.24101)
+
+(24 Aug 2026) OptiSight: Bridging Semantic Reasoning and Geometric Control for Embodied Navigation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.23354)
+
+(24 Aug 2026) Act with Intent: Distilling Behavior Intent for Vision-Language-Action Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.23478)
+
+(22 Aug 2026) Decoupled Physical Modeling and Execution for Physics Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.22126)
+
+(22 Aug 2026) CounterAlign: Counterfactual Supervision for Vision-Language-Action Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.21740)
+
+(18 Aug 2026) Prism-GRPO: Faster VLA Policy Optimization via Splitting Same-outcome Groups [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.17423)
+
+(18 Aug 2026) Embodied-Navigator: Point, Think, Memorize, and Align for Efficient Navigation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.17512)
+
+(17 Aug 2026) FetchMan: Learning Visual Humanoid Loco-Manipulation Policies from Simulated Experiences [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.17027)
+
+(17 Aug 2026) PROBE: Manipulation-Grounded Visual Question Answering with VLM Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.17129)
+
+(17 Aug 2026) Inference-Time Attention Steering for Vision-Language-Action Driving Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.17095)
+
+(17 Aug 2026) Planner-Conditioned Diffusion for Coordinated Multi-Agent Exploration [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.16229)
+
+(17 Aug 2026) HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.16837)
+
+(17 Aug 2026) $τ_0$-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.16885)
+
+(16 Aug 2026) Robo-Dopamine 2.0: History-Conditioned and OOD-Aware Process Reward Modeling for Robotic Manipulation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.15680)
+
+(14 Aug 2026) Imagining Recovery: Inference-Time Counterfactual Realignment for Vision-Language-Action Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.14822)
+
+(21 Jul 2026) No Training, Better Flights: Test-Time Scaled VLMs for UAV Navigation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.19288)
+
+(24 Jun 2026) RMTL: Reinforced Micro-task Learning for Long-Horizon Manipulation with VLM Rewards [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.26175)
+
+(12 Apr 2026) A Progressive Training Strategy for Vision-Language Models to Counteract Spatio-Temporal Hallucinations in Embodied Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.10506v1)
+
+(30 Mar 2026) SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.28730v1)
+
+(22 Mar 2026) RoboAlign: Learning Test-Time Reasoning for Language-Action Alignment in Vision-Language-Action Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.21341v1)
+
+(16 Mar 2026) From Passive Observer to Active Critic: Reinforcement Learning Elicits Process Reasoning for Robotic Manipulation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.15600v1)
+
+(24 Feb 2026) HALO: A Unified Vision-Language-Action Model for Embodied Multimodal Chain-of-Thought Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.21157v2)
+
+(18 Feb 2026) Peeking Ahead of the Field Study: Exploring VLM Personas as Support Tools for Embodied Studies in HCI [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.16157v1)
+
+(16 Feb 2026) Ground-Truth Depth in Vision Language Models: Spatial Context Understanding in Conversational AI for XR-Robotic Support in Emergency First Response [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.15237v1)
+
+(07 Feb 2026) VGAS: Value-Guided Action-Chunk Selection for Few-Shot Vision-Language-Action Adaptation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.07399v1)
+
+(16 Jan 2026) ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.11404v2)
+
+(02 Jan 2026) RoboReward: General-Purpose Vision-Language Reward Models for Robotics [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.00675v2)
+
+(21 Dec 2025) ESearch-R1: Learning Cost-Aware MLLM Agents for Interactive Embodied Search via Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.18571v1)
+
+(28 Nov 2025) Video-CoM: Interactive Video Reasoning via Chain of Manipulations [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.23477v1)
+
+(13 Nov 2025) AffordBot: 3D Fine-grained Embodied Reasoning via Multimodal Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.10017v1)
+
+
 ### Video
 
 (08 Sep 2026) Video-MOPD: Multi-Teacher On-Policy Distillation for Video Understanding [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.09300)
@@ -1822,6 +1822,7 @@ This repo also select paper about visual generation (image generation/video gene
 
 (7 May 2024) Video-of-Thought: Step-by-Step Video Reasoning from Perception to Cognition. [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.03230) [code](https://github.com/scofield7419/Video-of-Thought)
 
+
 ### DLLM
 
 (06 Sep 2026) A Ticket from Marginals to Joints: Coupled-Noise Distillation for One-Step Block Generation in Diffusion Language Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.06324)
@@ -1897,6 +1898,7 @@ This repo also select paper about visual generation (image generation/video gene
 (9 Oct 2025) Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.08554v1)
 
 (9 Oct 2025) Enhancing Reasoning for Diffusion LLMs via Distribution Matching Policy Optimization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.08233v1)
+
 
 ### Audio
 
@@ -1979,6 +1981,7 @@ This repo also select paper about visual generation (image generation/video gene
 (22 Jul 2025) Step-Audio 2 Technical Report [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.16632v1)
 
 (14 Mar 2025) Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.11197)
+
 
 ### Image/Video Generation
 
@@ -2115,6 +2118,7 @@ This repo also select paper about visual generation (image generation/video gene
 (3 Mar 2025) MINT: Multi-modal Chain of Thought in Unified Generative Models for Enhanced Image Generation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2503.01298)
 
 (23 Jan 2025) Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.13926)
+
 
 ### Bench/Dataset
 
@@ -2408,6 +2412,7 @@ This repo also select paper about visual generation (image generation/video gene
 
 (18 May 2021) NExT-QA:Next Phase of Question-Answering to Explaining Temporal Actions [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2105.08276)
 
+
 ### Latent
 
 (06 Sep 2026) Reason Through the Latent! Making Latent Visual Reasoning Necessary [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.06746)
@@ -2484,5 +2489,31 @@ This repo also select paper about visual generation (image generation/video gene
 
 (9 Dec 2024) Training Large Language Models to Reason in a Continuous Latent Space [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.06769)
 
+
 ### Open Source Project
 
+https://github.com/Hui-design/Open-LLaVA-Video-R1
+
+https://github.com/SkyworkAI/Skywork-R1V
+
+https://huggingface.co/papers/2503.05379
+
+https://github.com/Osilly/Vision-R1
+
+https://github.com/ModalMinds/MM-EUREKA
+
+https://github.com/OpenRLHF/OpenRLHF-M
+
+https://github.com/Fancy-MLLM/R1-Onevision
+
+https://github.com/om-ai-lab/VLM-R1
+
+https://github.com/EvolvingLMMs-Lab/open-r1-multimodal
+
+https://github.com/Deep-Agent/R1-V
+
+https://github.com/TideDra/lmm-r1
+
+https://github.com/tulerfeng/Video-R1
+
+https://github.com/Wang-Xiaodong1899/Open-R1-Video
