@@ -1526,6 +1526,8 @@ This repo also select paper about visual generation (image generation/video gene
 
 ### Video
 
+(19 Sep 2026) Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.23038) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/ZJU-OmniAI/Spatial-Interactor)
+
 (08 Sep 2026) Video-MOPD: Multi-Teacher On-Policy Distillation for Video Understanding [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.09300)
 
 (08 Sep 2026) Human-Centric Image Captioning with Subject-Centered Spatial Understanding [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.08300)
