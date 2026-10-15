@@ -1644,6 +1644,8 @@ This repo also select paper about visual generation (image generation/video gene
 
 (27 Jul 2026) Test-Time Adaptation via Dual Distillation for Videos Under Severe Distribution Shifts [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.24611)
 
+(19 Jul 2026) TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.17423) [Code](https://github.com/MCG-NJU/TimeLens2)
+
 (11 Jul 2026) Benchmarking Dynamic Affective Reasoning: A Viewer-Centric Video Emotion Dataset [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.10238)
 
 (06 Jul 2026) TimeThink: Reasoning with Time for Video LLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.05089)
