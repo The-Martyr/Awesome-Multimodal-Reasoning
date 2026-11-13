@@ -1499,6 +1499,8 @@ This repo also select paper about visual generation (image generation/video gene
 
 (24 Jun 2026) RMTL: Reinforced Micro-task Learning for Long-Horizon Manipulation with VLM Rewards [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.26175)
 
+(12 May 2026) Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.12620)
+
 (12 Apr 2026) A Progressive Training Strategy for Vision-Language Models to Counteract Spatio-Temporal Hallucinations in Embodied Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.10506v1)
 
 (30 Mar 2026) SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.28730v1)
