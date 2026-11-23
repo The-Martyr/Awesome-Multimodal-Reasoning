@@ -2152,6 +2152,8 @@ This repo also select paper about visual generation (image generation/video gene
 
 (02 Aug 2026) LongChart VQA: A Comprehensive Benchmark for MLLMs with Complex Multi-Chart Reasoning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.01328)
 
+(31 Jul 2026) Cross-Task Dissociation in Frontier Vision-Language Model Theory of Mind [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.00261)
+
 (30 Jul 2026) OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.28609)
 
 (28 Jul 2026) Interactive Reward Agent: GUI Task Evaluation via Environment-State Verification [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.25904)
